@@ -5,26 +5,14 @@ title: Absolute Zero
 # Home
 
 ## Class Name
-
+	EGR 340
 ## Semester
-
+	Spring
 ## Year
+	2024
+# Team Members:
+*Raj Kodithyala
+*Jillian Brooke
+*Alex Gutierrez
+*Briana Wells
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
-
-## Research Question
-
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## References
