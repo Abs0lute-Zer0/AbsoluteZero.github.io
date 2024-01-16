@@ -1,7 +1,7 @@
 ---
 title: Absolute Zero
-## We're up to snow good!
 ---
+## We're up to snow good!
 
 # Home
 
