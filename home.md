@@ -6,6 +6,8 @@ title: Absolute Zero
 
 ## Class Name
 	EGR 340
+## Professor
+ 	Dr. Kevin Nichols
 ## Semester
 	Spring
 ## Year
