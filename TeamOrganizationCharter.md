@@ -49,6 +49,9 @@ All potential conflicts will be addressed within group meetings if it is detrime
 
 ## Signatures
 Raj Kodithyala
+
 Alex Gutierrez
+
 Briana Wells
+
 Jillian Brooke
