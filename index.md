@@ -27,12 +27,16 @@ Group 304: Absolute Zero
 * Briana Wells
 
 ## Team Organization
+### Charter
 
+### Mission Statement
 
 ## User Needs, Benchmarking, and Requirements
 
 
 ## Design Ideation
+
+## Appendix
 
 
 ## Presentation 1
