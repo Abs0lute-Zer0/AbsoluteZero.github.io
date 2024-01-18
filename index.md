@@ -1,7 +1,7 @@
 
-+-+ pic # For storing team PIC code.
++-+ PIC # For storing team PIC code.
  
-+-+ esp32 # For storing team ESP32 code.
++-+ ESP32 # For storing team ESP32 code.
 
 ---
 Group 304: Absolute Zero
