@@ -1,3 +1,6 @@
+---
+title: Team Organization Charter
+---
 # Team Organization Charter
 
 ### Team 314: Absolute Zero
