@@ -6,7 +6,7 @@
 
 ## Voice of Customers (VOC) Benchmarking 
 
-_Search #1:_
+### _Search #1:_
 
 **Keywords:** temperature humidity monitor
 
@@ -36,7 +36,8 @@ Insert Table
 
 Insert Table
 
-_Search #2:_
+
+### _Search #2:_
 
 **Keywords:** temperature wireless wifi bluetooth
 
@@ -65,7 +66,8 @@ Insert Table
 
 Insert Table
 
-_Search #3:_
+
+### _Search #3:_
 
 **Keywords:** 
 
@@ -95,7 +97,8 @@ Insert Table
 
 Insert Table
 
-_Search #4:_
+
+### _Search #4:_
 
 **Keywords:** 
 
@@ -125,7 +128,8 @@ Insert Table
 
 Insert Table
 
-_Search #5:_
+
+### _Search #5:_
 
 **Keywords:** 
 
@@ -166,6 +170,8 @@ Insert Picture
 Insert Picture
 
 **Ranked Needs:**
+
+Insert Picture
 
 ## Compiled List of Needs
 
