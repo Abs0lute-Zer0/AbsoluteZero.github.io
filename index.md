@@ -1,8 +1,3 @@
-./ # top level of your repository
-
-+-+ PIC # For storing team PIC code.
-
-+-+ ESP32 # For storing team ESP32 code.
 
 ---
 Group 304: Absolute Zero
@@ -39,5 +34,5 @@ Group 304: Absolute Zero
 
 ## Presentation 1
 
-## Appendix
+## [Appendix](Appendix.github.io)
 
