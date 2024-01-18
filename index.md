@@ -10,9 +10,7 @@ title: Absolute Zero
 ## Professor
  	Dr. Kevin Nichols
 ## Semester
-	Spring
-## Year
-	2024
+	Spring 2024
 # Team Members:
 * Raj Kodithyala
 * Jillian Brooke
