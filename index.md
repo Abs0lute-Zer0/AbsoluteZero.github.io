@@ -1,19 +1,19 @@
 
----
-Group 304: Absolute Zero
----
+
+#Group 304: Absolute Zero
+
 ## "We're up to snow good!"
 
 # Home
 
 ### Class Name
-	EGR 314
+EGR 314
 
 ### Professor
- 	Dr. Kevin Nichols
+Dr. Kevin Nichols
 
 ### Semester
-	Spring 2024
+Spring 2024
 
 ### Team Members:
 * Raj Kodithyala
