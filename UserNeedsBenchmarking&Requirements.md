@@ -58,6 +58,7 @@ SensorPush HT1 Wireless Digital Thermometer/Hygrometer for iPhone/Android. USA D
 **Description:**
 
 This small sensing component is perfect for allowing accurate monitoring of desired areas such as greenhouses, freezers, etc. This device allows for flexibility in monitoring your desired location via Bluetooth or any Sensor Push wifi router to allow for easy access to accurate and reliable information.
+
 **Positive Comments:**
 
 Insert Table 
