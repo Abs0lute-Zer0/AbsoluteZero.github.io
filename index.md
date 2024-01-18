@@ -5,11 +5,11 @@ Group 304: Absolute Zero
 
 # Home
 
-## Class Name
+# Class Name
 	EGR 314
-## Professor
+# Professor
  	Dr. Kevin Nichols
-## Semester
+# Semester
 	Spring 2024
 # Team Members:
 * Raj Kodithyala
