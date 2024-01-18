@@ -1,2 +1,4 @@
-# Appendix
-## [Appendix A: Team Organization](AppendixA-TeamOrganization.io)
+---
+Appendix
+---
+## [Appendix A: Team Organization] (AppendixA-TeamOrganization.io)
