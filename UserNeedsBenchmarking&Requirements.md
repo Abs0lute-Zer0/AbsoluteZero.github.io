@@ -18,7 +18,7 @@ Insert pic IDK how
 
 Govee WiFi Thermometer Hygrometer H5179, Smart Humidity Temperature Sensor with App Notification Alert, 2 Years Free Data Storage Export, Remote Monitor for Room Greenhouse Incubator Wine Cellar
 
-[Govee-Indoor-Temperature-Humidity-Sensor](https://www.amazon.com/Govee-Indoor-Temperature-Humidity-Sensor/dp/B0872ZWV8X/ref=sr_1_4_sspa?crid=1BR3HZJTGF2C0&dib=eyJ2IjoiMSJ9.ew-bu6PyGKu2HQAV-w8bzeYMkZzayQJzP2a3s7hEa9Lwl_6mHqtGWwr7O_G3qBtO6L1DSvdWt71uLZmblPCOFw.76AyXNI7_8fDWAflqjfJuJCLixjEM48x1GS0scKtVuo&dib_tag=se&keywords=temperature+humidity+monitor&qid=1704995151&sprefix=temperature+humidi%2Caps%2C143&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1 )
+[Govee Indoor Temperature Humidity Sensor](https://www.amazon.com/Govee-Indoor-Temperature-Humidity-Sensor/dp/B0872ZWV8X/ref=sr_1_4_sspa?crid=1BR3HZJTGF2C0&dib=eyJ2IjoiMSJ9.ew-bu6PyGKu2HQAV-w8bzeYMkZzayQJzP2a3s7hEa9Lwl_6mHqtGWwr7O_G3qBtO6L1DSvdWt71uLZmblPCOFw.76AyXNI7_8fDWAflqjfJuJCLixjEM48x1GS0scKtVuo&dib_tag=se&keywords=temperature+humidity+monitor&qid=1704995151&sprefix=temperature+humidi%2Caps%2C143&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1 )
 
 **Price:** $35.19 - 31.67
 
@@ -42,13 +42,13 @@ _Search #2:_
 
 **Search Results Link:** 
 
-[Amazon: temperature wireless wifi bluetooth]([https://www.amazon.com/s?k=temperature+humidity+monitor&crid=1BR3HZJTGF2C0&sprefix=temperature+humidi%2Caps%2C143&ref=nb_sb_ss_ts-doa-p_1_18 ](https://www.amazon.com/s?k=temperature+wireless+wifi+bluetooth&crid=2UF920JQKKSAP&sprefix=temperature+wireless+wifi+bluetooth%2Caps%2C139&ref=nb_sb_noss_2))
+[Amazon: temperature wireless wifi bluetooth](https://www.amazon.com/s?k=temperature+humidity+monitor&crid=1BR3HZJTGF2C0&sprefix=temperature+humidi%2Caps%2C143&ref=nb_sb_ss_ts-doa-p_1_18 (https://www.amazon.com/s?k=temperature+wireless+wifi+bluetooth&crid=2UF920JQKKSAP&sprefix=temperature+wireless+wifi+bluetooth%2Caps%2C139&ref=nb_sb_noss_2))
 
 Insert pic IDK how
 
 SensorPush HT1 Wireless Digital Thermometer/Hygrometer for iPhone/Android. USA Developed and Supported Humidity/Temperature/Dewpoint/VPD Monitor/Logger. Indoor/Outdoor Smart Sensor with Alerts
 
-[SensorPush-Wireless-Thermometer-Hygrometer-Android]([https://www.amazon.com/Govee-Indoor-Temperature-Humidity-Sensor/dp/B0872ZWV8X/ref=sr_1_4_sspa?crid=1BR3HZJTGF2C0&dib=eyJ2IjoiMSJ9.ew-bu6PyGKu2HQAV-w8bzeYMkZzayQJzP2a3s7hEa9Lwl_6mHqtGWwr7O_G3qBtO6L1DSvdWt71uLZmblPCOFw.76AyXNI7_8fDWAflqjfJuJCLixjEM48x1GS0scKtVuo&dib_tag=se&keywords=temperature+humidity+monitor&qid=1704995151&sprefix=temperature+humidi%2Caps%2C143&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1 ](https://www.amazon.com/SensorPush-Wireless-Thermometer-Hygrometer-Android/dp/B01AEQ9X9I/ref=sr_1_11_sspa?crid=2UF920JQKKSAP&dib=eyJ2IjoiMSJ9.zhB-QT5FOTlYwf6UFAPVl-Bmx6iq0-Aq6hDOeed2KHYCRqSbWgBWTReZboCDZkM2QkEqcL-eH71lzpTbVGJr9A.ZCPLKakgC026potshhveYavFphuzwUZGZftSc2lv3Ds&dib_tag=se&keywords=temperature+wireless+wifi+bluetooth&qid=1704995178&sprefix=temperature+wireless+wifi+bluetooth%2Caps%2C139&sr=8-11-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1)https://www.amazon.com/SensorPush-Wireless-Thermometer-Hygrometer-Android/dp/B01AEQ9X9I/ref=sr_1_11_sspa?crid=2UF920JQKKSAP&dib=eyJ2IjoiMSJ9.zhB-QT5FOTlYwf6UFAPVl-Bmx6iq0-Aq6hDOeed2KHYCRqSbWgBWTReZboCDZkM2QkEqcL-eH71lzpTbVGJr9A.ZCPLKakgC026potshhveYavFphuzwUZGZftSc2lv3Ds&dib_tag=se&keywords=temperature+wireless+wifi+bluetooth&qid=1704995178&sprefix=temperature+wireless+wifi+bluetooth%2Caps%2C139&sr=8-11-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1)
+[SensorPush-Wireless-Thermometer-Hygrometer-Android](https://www.amazon.com/Govee-Indoor-Temperature-Humidity-Sensor/dp/B0872ZWV8X/ref=sr_1_4_sspa?crid=1BR3HZJTGF2C0&dib=eyJ2IjoiMSJ9.ew-bu6PyGKu2HQAV-w8bzeYMkZzayQJzP2a3s7hEa9Lwl_6mHqtGWwr7O_G3qBtO6L1DSvdWt71uLZmblPCOFw.76AyXNI7_8fDWAflqjfJuJCLixjEM48x1GS0scKtVuo&dib_tag=se&keywords=temperature+humidity+monitor&qid=1704995151&sprefix=temperature+humidi%2Caps%2C143&sr=8-4-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
 
 **Price:** $49.99 -89.99
 
