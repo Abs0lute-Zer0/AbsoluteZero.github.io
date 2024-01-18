@@ -18,7 +18,6 @@ Communication Channels
 
 _Table 1: Team Member Communication Modes_
 
-
 Enter the table IDK how
 
 ## Communication Procedures
@@ -26,6 +25,7 @@ Main communication will be maintained through texts in a project group chat in w
 Meeting Schedule
 
 _Figure 1: Weekly availability_
+
 Enter the pic IDK how
 
 ## Meeting Coordination
@@ -35,7 +35,9 @@ All times are subject to change given what is necessary to finish assignments an
 ## Roles & Responsibilities
 
 _Table 2: Project Roles and Duties_
+
 Enter table IDK how
+
 Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status.
 
 ## Role & Responsibility Accountability Procedure
