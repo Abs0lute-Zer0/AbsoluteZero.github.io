@@ -6,7 +6,7 @@ Group 304: Absolute Zero
 # Home
 
 ## Class Name
-	EGR 340
+	EGR 314
 ## Professor
  	Dr. Kevin Nichols
 ## Semester
