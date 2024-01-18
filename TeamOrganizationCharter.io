@@ -26,7 +26,7 @@ Main communication will be maintained through texts in a project group chat in w
 Meeting Schedule
 
 _Figure 1: Weekly availability_
-Enter the picture idk how do later
+![image caption](file:///C:/Users/Jilli/OneDrive/-%20Jillian/ASU%20Year%203/Semester%202/EGR%20314/Team%20Assignments/Pictures/AvailiblilityTimes.pdf)
 
 ## Meeting Coordination
 These are the primary time slots for this project. This first is a general meeting time on Tuesdays and Thursdays from 2:00 to 3:00 p.m. This time will be predominantly used as a touchstone meeting, used to discuss future/current assignments for the project in addition to dividing up assignments and work for the project. The second general meeting time is on Fridays starting at 1:00 p.m. until 5:00 p.m. to work on the build/construction of the prototype or final device. If additional time is needed time will be scheduled during the weekend to continue working on the project in person.
