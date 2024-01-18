@@ -88,6 +88,7 @@ For the rest of the list of ideas, please see
 
 ## Design Ideation
 
+[Appendix C: Design Ideation](DesignIdeation.md)
 
 ## Presentation 1
 
