@@ -8,7 +8,7 @@
 
 ## Whiteboards:
 
-Insert Pics
+![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/a98eb534-d94f-46e3-b1e8-b186f93577e6)
 
 ## Generate Ideas
 
