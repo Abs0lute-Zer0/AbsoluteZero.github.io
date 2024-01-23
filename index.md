@@ -25,13 +25,13 @@ Spring 2024
 
 ### Charter
 
-DELETE LATER "Include connective tissue"
+The team met up for the first team meeting to discuss the roles and responsibilities that each member would be expected to fulfill. Over an hour the team worked to write a charter that was agreeable to all members. Below is the result of this meeting.
 
 Our primary goal is to foster a creative learning environment in which every team member has a plethora of opportunities to improve. Through collaborative efforts, another team goal is to improve the communication skills of every member. Furthermore, another goal is for every team member to gain proficiency in all engineering skills discussed and taught in the EGR 314 class. Moreover, another goal is to establish engineering connections to better our careers. Finally, our last goal is to produce a product that accomplishes its tasks with positive customer satisfaction.
 
 ### Mission Statement
 
-DELETE LATER "Include connective tissue"
+The team desired to develop an appropriate and accurate mission statement for this project. The team wanted the mission statement to reflect not only the project but also the relations between team members.
 
 Our team’s mission is to develop a portable weather station capable of displaying multiple weather data points connected to an external site. This device aims to provide users with important information about local meteorological conditions.
 
