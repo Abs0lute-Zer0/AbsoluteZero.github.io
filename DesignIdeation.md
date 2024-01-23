@@ -127,13 +127,15 @@ Concept sketch 1 features the use of a temperature and humidity sensor. The step
 
 ### Concept Sketch 2 - Rover Weather Station
 
-Insert Pic
+![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/135275139/20433315-15a1-4740-8664-bf77b2fbc421)
+Concept Sketch 2
 
 Concept sketch 2 is a controllable rover weather station with separate motors for each wheel. It features a camera or ultrasonic sensor, so the rover can be operated remotely or could potentially be configured to run autonomously. The sensors will be positioned on the top of the rover for accurate readings. The design will also feature an LCD screen that will display information like temperature and humidity readings physically on the robot for the user, or they can get the information live from a website. The wheels will be treaded for greater traction for navigating all types of terrain.
 
 ### Concept Sketch 3 - Weather Bug 2000
 
-Insert Pic
+![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/135275139/dd18b79b-53ba-4218-837d-333ead72b0d3)
+Concept Sketch 3
 
 Concept number 3 is a controlled mobile weather station it utilizes two DC motors to allow the user to perform turns in the same area of space and traverse difficult terrain using polyurethane tracks. The device includes an antenna to amplify its connection to the user’s wifi and ensure optimal connection. The Weather Bug 2000 includes temperature and humidity sensors (disguised as the ladybug's spots) allowing the user to understand their environment.
 
