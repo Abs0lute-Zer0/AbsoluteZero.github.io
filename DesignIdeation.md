@@ -121,7 +121,7 @@ Insert Table
 
 ### Concept Sketch 1 - Motor Controlled Temperature Gauge
 
-Insert Pic
+![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/135275139/b7082d88-e545-4bb9-84a2-89ac82ddab14) Concept Sketch 1
 
 Concept sketch 1 features the use of a temperature and humidity sensor. The stepper motor controls a temperature gauge that adjusts the position depending on the temperature detected by the temperature sensor. The user can understand the temperature outside based on the live feed from a website or by reading the temperature gauge. Humidity readings will solely be read from the live feed on the website.
 
