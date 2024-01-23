@@ -24,9 +24,9 @@ Enter the table IDK how
 Main communication will be maintained through texts in a project group chat in which everyone is expected to respond as soon as possible. If someone is unable to communicate via text, details will be shared via the listed email. If this proves ineffective there will be a meeting to discuss future means for team communication, whether that be via Discord or a different platform. Additionally, in the event of a member being uncooperative in terms of communication, the procedure following that is outlined in Conflict Recognition and Resolution.
 Meeting Schedule
 
-_Figure 1: Weekly availability_
+![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/2883cd60-5932-4ce2-b37d-8e6d5aa2b195)
 
-Enter the pic IDK how
+_Figure 1: Weekly availability_
 
 ## Meeting Coordination
 These are the primary time slots for this project. This first is a general meeting time on Tuesdays and Thursdays from 2:00 to 3:00 p.m. This time will be predominantly used as a touchstone meeting, used to discuss future/current assignments for the project in addition to dividing up assignments and work for the project. The second general meeting time is on Fridays starting at 1:00 p.m. until 5:00 p.m. to work on the build/construction of the prototype or final device. If additional time is needed time will be scheduled during the weekend to continue working on the project in person.
