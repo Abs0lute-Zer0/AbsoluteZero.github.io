@@ -327,14 +327,15 @@ A news station is unable or unwilling to send a reporter into the heart of a sto
 The customer can leave the rover outside on their patio 24/7 to help him be our of the weather conditions outside their house and find the best way for them to prepare for the day. If it’s a particularly cold day the rover would be sent to the customer a push notification to their phone so they can grab an extra jacket. Similarly, if the day is particularly sunny it can alert the customer to make sure they wear sunscreen and remind them to drink plenty of water before heading out.
 
 **Aspects**
-1. Hardware / Product Design 
+1. Hardware / Product Design
+   
   1.1 The product should avoid exposure to electrical component
   1.2 The product should use a material that is suitable for all terrains
   1.3 The product should be portable and compact
   1.4 The product should avoid using materials that fall apart over time
   1.5 The product should be aesthetically pleasing
   1.6 The product should be easy to hold/handle
-3. Software / Functionality
+2. Software / Functionality
   2.1 The product should incorporate at least two types of weather sensors.
   2.2 The product should offer an application that lets users control it through Wifi or a website
   2.3 The product should offer an effective way of recharging
