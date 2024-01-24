@@ -320,3 +320,5 @@ A simple, easy-to-assemble three-wheeled car with many holes and places to attac
 
 ## Product Requirements
 
+**User Story #1: Weather Reporter**
+
