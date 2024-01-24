@@ -321,4 +321,41 @@ A simple, easy-to-assemble three-wheeled car with many holes and places to attac
 ## Product Requirements
 
 **User Story #1: Weather Reporter**
+A news station is unable or unwilling to send a reporter into the heart of a storm that is raging through the area. To ensure the safety of all individuals the technology department deploys their custom-made weather rover to report on the situation. The rover reports critical information to the station allowing for an accurate and up-to-date report.
+
+**User Story #2: Casual Customer**
+The customer can leave the rover outside on their patio 24/7 to help him be our of the weather conditions outside their house and find the best way for them to prepare for the day. If it’s a particularly cold day the rover would be sent to the customer a push notification to their phone so they can grab an extra jacket. Similarly, if the day is particularly sunny it can alert the customer to make sure they wear sunscreen and remind them to drink plenty of water before heading out.
+
+**Aspects**
+1. Hardware / Product Design 
+  1.1 The product should avoid exposure to electrical components
+  1.2 The product should use a material that is suitable for all terrains
+  1.3 The product should be portable and compact
+  1.4 The product should avoid using materials that fall apart over time
+  1.5 The product should be aesthetically pleasing
+  1.6 The product should be easy to hold/handle
+2. Software / Functionality
+  2.1 The product should incorporate at least two types of weather sensors.
+  2.2 The product should offer an application that lets users control it through Wifi or a website
+  2.3 The product should offer an effective way of recharging
+  2.4 The product should have a battery life of at least an hour
+3. Interactivity & User Experience
+The product should be operable by a singular person 
+The product should connect to wifi quickly
+The product should function safely without the risk of harm to the user or environment
+4. Customization
+The product should be modular to allow for different designs/forms/structures.
+The product should be made from a material that allows users to paint or add stickers if desired.
+The product should allow users to record the data in a database
+5. Manufacturing
+The product should be easy to manufacture and produce using the Peralta Lab
+The product should be made from affordable materials.
+The product should be able to be designed to optimize manufacturability
+6. Safety
+The product should not have any loose wires or exposed electronic components
+The product should not have any sharp edges that could harm the user
+The product port should be easy to access to make it easier for the user when plugging it in.
+The product should have almost all the hardware concealed to protect the user from malfunctions.
+The product should be made from non-flammable and non-toxic material
+
 
