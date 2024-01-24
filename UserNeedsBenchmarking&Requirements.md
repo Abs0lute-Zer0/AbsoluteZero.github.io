@@ -217,5 +217,25 @@ A simple, easy-to-assemble three-wheeled car with many holes and places to attac
 ## Compiled List of Needs
 
 | Restated Customer Need (Explicit/Latent) | Meta Need | Ranking |
-|------------------------------------------|-----------|---------|
-
+|Cost efficient|Functionality|1|
+|Accurate|Functionality|2|
+|barometer (measures atmospheric pressure)|Functionality|3|
+|rigid body|Functionality|4|
+|mobile|Functionality|5|
+|economical|Accessibility|6|
+|need-based|Functionality|7|
+|survives a 6-inch drop|Functionality|8|
+|Minimal amount of assembly|Functionality|9|
+|Can send information over Wifi|Functionality|10|
+|Tracks|Functionality|11|
+|easy to access info|Functionality|12|
+|Treaded wheels to ensure balance|Functionality|13|
+|profitable|Functionality|14|
+|gear track to ensure efficiency|Functionality|15|
+|durable|Functionality|16|
+|Affordable|Functionality|17|
+|tough|Functionality|18|
+|needs a fuse|Functionality|19|
+|Long-lasting battery|Functionality|20|
+|Minimal amount of parts|Appearance|21|
+|reliable connection|Functionality|22|
