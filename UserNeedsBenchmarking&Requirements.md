@@ -217,7 +217,7 @@ A simple, easy-to-assemble three-wheeled car with many holes and places to attac
 ## Compiled List of Needs
 
 | Restated Customer Need (Explicit/Latent) | Meta Need | Ranking |
-| --- | --- |
+| ---------------------------------------- | --------- | ------- |
 | Cost efficient | Functionality | 1 |
 | Accurate | Functionality | 2 |
 |barometer (measures atmospheric pressure)|Functionality|3|
