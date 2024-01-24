@@ -351,23 +351,40 @@ The customer can leave the rover outside on their patio 24/7 to help him be our 
   
   2.4 The product should have a battery life of at least an hour
   
-5. Interactivity & User Experience
-The product should be operable by a singular person 
-The product should connect to wifi quickly
-The product should function safely without the risk of harm to the user or environment
-6. Customization
-The product should be modular to allow for different designs/forms/structures.
-The product should be made from a material that allows users to paint or add stickers if desired.
-The product should allow users to record the data in a database
-7. Manufacturing
-The product should be easy to manufacture and produce using the Peralta Lab
-The product should be made from affordable materials.
-The product should be able to be designed to optimize manufacturability
-8. Safety
-The product should not have any loose wires or exposed electronic components
-The product should not have any sharp edges that could harm the user
-The product port should be easy to access to make it easier for the user when plugging it in.
-The product should have almost all the hardware concealed to protect the user from malfunctions.
-The product should be made from non-flammable and non-toxic material
+3. Interactivity & User Experience
+
+3.1 The product should be operable by a singular person 
+
+3.2 The product should connect to wifi quickly
+
+3.3 The product should function safely without the risk of harm to the user or environment
+
+4. Customization
+
+4.1 The product should be modular to allow for different designs/forms/structures.
+
+4.2 The product should be made from a material that allows users to paint or add stickers if desired.
+
+4.3 The product should allow users to record the data in a database
+
+5. Manufacturing
+   
+5.1 The product should be easy to manufacture and produce using the Peralta Lab
+
+5.2 The product should be made from affordable materials.
+
+5.3 The product should be able to be designed to optimize manufacturability
+
+6. Safety
+
+6.1 The product should not have any loose wires or exposed electronic components
+   
+6.2 The product should not have any sharp edges that could harm the user
+   
+6.3 The product port should be easy to access to make it easier for the user when plugging it in.
+   
+6.4 The product should have almost all the hardware concealed to protect the user from malfunctions.
+   
+6.5 The product should be made from non-flammable and non-toxic material
 
 
