@@ -327,6 +327,7 @@ A news station is unable or unwilling to send a reporter into the heart of a sto
 The customer can leave the rover outside on their patio 24/7 to help him be our of the weather conditions outside their house and find the best way for them to prepare for the day. If it’s a particularly cold day the rover would be sent to the customer a push notification to their phone so they can grab an extra jacket. Similarly, if the day is particularly sunny it can alert the customer to make sure they wear sunscreen and remind them to drink plenty of water before heading out.
 
 **Aspects**
+
 **1. Hardware / Product Design**
    
   1.1 The product should avoid exposure to electrical component
