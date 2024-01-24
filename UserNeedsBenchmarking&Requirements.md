@@ -240,83 +240,82 @@ A simple, easy-to-assemble three-wheeled car with many holes and places to attac
 |Long-lasting battery|Functionality|20|
 |Minimal amount of parts|Appearance|21|
 |reliable connection|Functionality|22|
-| Accurate | Functionality | 23 |
-| Accurate | Functionality | 24 |
-| Accurate | Functionality | 25 |
+| medium size | Appearance | 23 |
+| Understandable (initiative) | Accessibility | 24 |
+| skilled | Functionality | 25 |
 | Accurate | Functionality | 26 |
-| Accurate | Functionality | 27 |
-| Accurate | Functionality | 28 |
-| Accurate | Functionality | 29 |
-| Accurate | Functionality | 30 |
-| Accurate | Functionality | 31 |
-| Accurate | Functionality | 32 |
-| Accurate | Functionality | 33 |
-| Accurate | Functionality | 34 |
-| Accurate | Functionality | 35 |
-| Accurate | Functionality | 36 |
-| Accurate | Functionality | 37 |
-| Accurate | Functionality | 38 |
-| Accurate | Functionality | 39 |
-| Accurate | Functionality | 40 |
-| Accurate | Functionality | 41 |
-| Accurate | Functionality | 42 |
-| Accurate | Functionality | 43 |
-| Accurate | Functionality | 44 |
-| Accurate | Functionality | 45 |
-| Accurate | Functionality | 46 |
-| Accurate | Functionality | 47 |
-| Accurate | Functionality | 48 |
-| Accurate | Functionality | 49 |
-| Accurate | Functionality | 50 |
-| Accurate | Functionality | 51 |
-| Accurate | Functionality | 52 |
-| Accurate | Functionality | 53 |
-| Accurate | Functionality | 54 |
-| Accurate | Functionality | 55 |
-| Accurate | Functionality | 56 |
-| Accurate | Functionality | 57 |
-| Accurate | Functionality | 58 |
-| Accurate | Functionality | 59 |
-| Accurate | Functionality | 60 |
-| Accurate | Functionality | 61 |
-| Accurate | Functionality | 62 |
-| Accurate | Functionality | 63 |
-| Accurate | Functionality | 64 |
-| Accurate | Functionality | 65 |
-| Accurate | Functionality | 66 |
-| Accurate | Functionality | 67 |
-| Accurate | Functionality | 68 |
-| Accurate | Functionality | 69 |
-| Accurate | Functionality | 70 |
-| Accurate | Functionality | 71 |
-| Accurate | Functionality | 72 |
-| Accurate | Functionality | 73 |
-| Accurate | Functionality | 74 |
-| Accurate | Functionality | 75 |
-| Accurate | Functionality | 76 |
-| Accurate | Functionality | 77 |
-| Accurate | Functionality | 78 |
-| Accurate | Functionality | 79 |
-| Accurate | Functionality | 80 |
-| Accurate | Functionality | 81 |
-| Accurate | Functionality | 82 |
-| Accurate | Functionality | 83 |
-| Accurate | Functionality | 84 |
-| Accurate | Functionality | 85 |
-| Accurate | Functionality | 86 |
-| Accurate | Functionality | 87 |
-| Accurate | Functionality | 88 |
-| Accurate | Functionality | 89 |
-| Accurate | Functionality | 90 |
-| Accurate | Functionality | 91 |
-| Accurate | Functionality | 92 |
-| Accurate | Functionality | 93 |
-| Accurate | Functionality | 94 |
-| Accurate | Functionality | 95 |
-| Accurate | Functionality | 96 |
-| Accurate | Functionality | 97 |
-| Accurate | Functionality | 98 |
-| Accurate | Functionality | 99 |
-| Accurate | Functionality | 100 |
+| long distance connection | Functionality | 27 |
+| beginner-friendly | Accessibility | 28 |
+| sturdy | Safety | 29 |
+| shorty distance connection | Functionality | 30 |
+| no lipo (lithium) batteries | Safety | 31 |
+| cost-effective materials | Accessibility | 32 |
+| Multiple sensors | Functionality | 33 |
+| Measure in C and F | Accessibility | 34 |
+| covered | Safety | 35 |
+| survive extreme temperatures | Functionality | 36 |
+| engaging | Accessibility | 37 |
+| access a wide range of humidity levels | Functionality | 38 |
+| light | Accessibility | 39 |
+| beginner friendly | Safety | 40 |
+| convenient | Accessibility | 41 |
+| powerful | Function | 42 |
+| accessible to the disabled | Accessibility | 43 |
+| all terrain | Functionality | 44 |
+| weatherproof | Functionality | 45 |
+| customizable | Appearance | 46 |
+| Small sized | Appearance | 47 |
+| copyrighted | Safety | 48 |
+| Measures humidity | Functionality | 49 |
+| access a wide range of temps | Functionality | 50 |
+| Tracable | Functionality | 51 |
+| hard to break | Functionality | 52 |
+| adaptable | Functionality | 53 |
+| website is easy to use | Appearance | 54 |
+| Easy to handle | Accessibility | 55 |
+| reliable | Functionality | 56 |
+| Easy to maintain | Functionality | 57 |
+| Device manual | Accessibility | 58 |
+| 3d printed | Appearance | 59 |
+| customizable | Appearance | 60 |
+| Energy Efficient | Functionality | 61 |
+| Small sized | Appearance | 62 |
+| Sealed to ensure safety of components | Functionality | 63 |
+| humidity | Functionality | 64 |
+| alerts | Functionality | 65 |
+| gyroscope | Functionality | 66 |
+| accuracy | Functionality | 67 |
+| GPS | Functionality | 68 |
+| sealed | Functionality | 69 |
+| covered | Appearance | 70 |
+| accuracy | Functionality | 71 |
+| balance | Functionality | 72 |
+| big wheels | Appearance | 73 |
+| Device manual | Accessibility | 74 |
+| ballpoint roller | Functionality | 75 |
+| mobile | Functionality | 76 |
+| understandable | Accessibility | 77 |
+| colorful | Appearance | 78 |
+| LCD | Appearance | 79 |
+| Connectivity | Functionality | 80 |
+| Bluetooth | Functionality | 81 |
+| Wifi Connection | Functionality | 82 |
+| Controllable | Accessibility | 83 |
+| Displays | Appearance | 84 |
+| Safe | Safety | 85 |
+| Childproof | Safety | 86 |
+| Animal Proof | Safety | 87 |
+| informative | Accessibility | 89 |
+| Innovative | Functionality | 90 |
+| investigative | Functionality | 91 |
+| groundbreaking | Appearance | 92 |
+| significant | Functionality | 93 |
+| sturdy | Functionality | 94 |
+| sensitive | Functionality | 95 |
+| rational | Functionality | 96 |
+| Easily build from simple materials | Accessibility | 97 |
+| repeatable | Accessibility | 98 |
+| User-based | Functional | 99 |
+| Creative | Appearance | 100 |
 
 
