@@ -327,7 +327,7 @@ A news station is unable or unwilling to send a reporter into the heart of a sto
 The customer can leave the rover outside on their patio 24/7 to help him be our of the weather conditions outside their house and find the best way for them to prepare for the day. If it’s a particularly cold day the rover would be sent to the customer a push notification to their phone so they can grab an extra jacket. Similarly, if the day is particularly sunny it can alert the customer to make sure they wear sunscreen and remind them to drink plenty of water before heading out.
 
 **Aspects**
-1. Hardware / Product Design
+**1. Hardware / Product Design**
    
   1.1 The product should avoid exposure to electrical component
   
@@ -341,7 +341,7 @@ The customer can leave the rover outside on their patio 24/7 to help him be our 
   
   1.6 The product should be easy to hold/handle
   
-2. Software / Functionality
+**2. Software / Functionality**
  
   2.1 The product should incorporate at least two types of weather sensors.
    
@@ -351,7 +351,7 @@ The customer can leave the rover outside on their patio 24/7 to help him be our 
   
   2.4 The product should have a battery life of at least an hour
   
-3. Interactivity & User Experience
+**3. Interactivity & User Experience**
 
 3.1 The product should be operable by a singular person 
 
@@ -359,7 +359,7 @@ The customer can leave the rover outside on their patio 24/7 to help him be our 
 
 3.3 The product should function safely without the risk of harm to the user or environment
 
-4. Customization
+**4. Customization**
 
 4.1 The product should be modular to allow for different designs/forms/structures.
 
@@ -367,7 +367,7 @@ The customer can leave the rover outside on their patio 24/7 to help him be our 
 
 4.3 The product should allow users to record the data in a database
 
-5. Manufacturing
+**5. Manufacturing**
    
 5.1 The product should be easy to manufacture and produce using the Peralta Lab
 
@@ -375,7 +375,7 @@ The customer can leave the rover outside on their patio 24/7 to help him be our 
 
 5.3 The product should be able to be designed to optimize manufacturability
 
-6. Safety
+**6. Safety**
 
 6.1 The product should not have any loose wires or exposed electronic components
    
