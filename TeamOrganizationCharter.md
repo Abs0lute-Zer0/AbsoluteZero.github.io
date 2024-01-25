@@ -43,7 +43,7 @@ _Table 2: Project Roles and Duties_
 
 | Role | Member | Duties |
 | ---------------------------------------- | --------- | ------- |
-| Meeting leader | Functionality | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting. |
+| Meeting leader | Alex Gutierrez | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting. |
 | Meeting recorder | Briana Wells | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned. |
 |Assignment leader|Jillian Brooke|Coordinates the team's work on a given assignment to Canvas before the due date|
 |Project Monitor|Raj Kodithyala|Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status.|
