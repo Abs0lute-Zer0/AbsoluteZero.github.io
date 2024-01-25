@@ -55,7 +55,7 @@ For the the full list of user needs, please go to [Appendix B: User Needs, Bench
 
 ### Voices of Customers (VOC) Benchmarking 
 
-CHANGE THIS IS ONLY REFERENCE "For this part, since the group was able to glean that many of the users of this product would be younger or children, the group investigated five different toys to see their pros, cons, and features as well as how the users reacted to them. the team used this to see what features users liked and what they disliked so that the team could get an idea of some more user needs that the team would need to cover in our product. With the feedback as well the team were able to understand consumers better and how to build a better product for them drawing from positives and negatives they said about other products."
+For this, the team decided to do some research on our main experts who would be meteorological experts as well as casual day-to-day customers. We looked at what information is important for both types of customers to know in an easy and fast manner. The main data that was important for our customers to know was: the temperature forecast (with a maximum and minimum value), the humidity outside, and a reasonable prediction of the weather. This way the user can receive a notification to their phone so that way they can get ready for their day while taking into consideration the weather forecast.
 
 For the list of searches done, please go to [Appendix B: User Needs, Benchmarking, and Requirements](UserNeedsBenchmarking&Requirements.md)
 
@@ -63,19 +63,19 @@ For the list of searches done, please go to [Appendix B: User Needs, Benchmarkin
 
 **Board of Needs:** 
 
-Insert Picture
+![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/1c50efb9-c2e4-46b3-be68-892ffd01acc7)
 
 DELETE LATER "For example, how did your team organize, combine, and split needs into the list you arrived at? Justify the process by which your team assigned weights for importance, using both interview notes and internal team discussions."
 
 **Grouped Needs:**
 
-Insert Picture
+![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/1ac142df-68d1-4513-b9c8-efc182f107dd)
 
 DELETE LATER "Discuss the process by which your team converted user needs into specifications."
 
 **Ranked Needs:**
 
-Insert Picture
+![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/8c476fa1-5221-4085-8f3c-b90763efc028)
 
 DELETE LATER "Discuss, with detail, how your design will be assessed according to the "aspects", to ensure your product meets your requirements."
 
