@@ -155,7 +155,7 @@ LEDs |IR Sensor
   Working/appropriate Battery Connection| Humidity Sensor
   Durable| Noise
   No sharp corners|
-  Motion Sensor|
+  Motion Sensor| 
   Humidity Sensor|
   Photoresistor|
   Noise|
