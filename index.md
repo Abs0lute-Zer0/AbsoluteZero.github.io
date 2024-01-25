@@ -75,13 +75,13 @@ For the list of searches done, please go to [Appendix B: User Needs, Benchmarkin
 
 ![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/8c476fa1-5221-4085-8f3c-b90763efc028)
 
-Process of Creating User Needs:
+**Process of Creating User Needs:**
 To find the required needs for the device and facilitate organizing the ideas into their categories, the team first brainstormed the needs of the customers based on what we felt the user would care about the most. Initially, the ideas were unrelated but after some work many themes were realized. The team then continued to expand on each theme with the required needs being centered around any potential users.
 
-Conversion of User Needs into Specifications:
+**Conversion of User Needs into Specifications:**
 With every user need falling under a particular category, the team understood whether each user need was quantifiable or qualitative. After this analysis, it was easy to determine how the user needs would fall into a certain specification and what was needed for the final product. As an example, safety specifications were the first to be identified based on the assumed user needs which was used as a basis to convert other user needs to other specifications. 
 
-Assessment Based on Product Requirements/Aspects:
+**Assessment Based on Product Requirements/Aspects:**
 The final product's design will be thoroughly assessed on all product aspects as they are all crucial. Safety and functionality will of course be given the most importance of assessment as that signifies a successful or failed product. Of course, there will be many places for improvement after the initial final product so therefore the customizability and manufacturability won't be assessed as heavily but should still be kept in mind when designing the final product. Finally, user experience is. After the safety, functionality, user experience, customizability, and manufacturability product aspects are assessed, the product will be deemed to be either successful or incomplete. Following the final assessment, expandability will be looked at to consider if the product can considered for further improvements. These assessments and checks will determine if the final design meets the product requirements. 
 
 
