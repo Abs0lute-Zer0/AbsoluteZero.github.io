@@ -42,20 +42,20 @@ For the rest of the Team Organization Document, please see
 
 ### User Needs
 
-In order to better understand how to design a product of this type, the team worked together to come up with a list of different possible user needs that would provide essential information to keep in mind when it came time to begin designing a device. The team determined that the target usre would most likely be individuals/companies with intrests in their local weather or researchers. A sample of these user needs is listed below:
+To better understand how to design a product of this type, the team worked together to come up with a list of possible user needs that would provide essential information to keep in mind when it came time to begin designing a device. The team determined that the target users would most likely be individuals/companies with an interest in their local weather or researchers. A sample of these user needs is listed below:
 
 * Device needs to be affordable
-* Needs to be easily assembled/repared
+* Needs to be easily assembled/repaired
 * It needs to ensure effortless relocation
 * Device needs to be simplistic in control to ensure user accessibility
-* The data recorded needs to be relyable and accurate
+* The data recorded needs to be reliable and accurate
 * Needs to be durable and able to withstand the conditions it is testing in
 
-For the the full list of user needs, please go to [Appendix B: User Needs, Benchmarking, and Requirements](UserNeedsBenchmarking&Requirements.md)
+For the full list of user needs, please go to [Appendix B: User Needs, Benchmarking, and Requirements](UserNeedsBenchmarking&Requirements.md)
 
 ### Voices of Customers (VOC) Benchmarking 
 
-For this, the team decided to do some research on our main experts who would be meteorological experts as well as casual day-to-day customers. We looked at what information is important for both types of customers to know in an easy and fast manner. The main data that was important for our customers to know was: the temperature forecast (with a maximum and minimum value), the humidity outside, and a reasonable prediction of the weather. This way the user can receive a notification to their phone so that way they can get ready for their day while taking into consideration the weather forecast.
+For this, the team decided to do some research on our main experts who would be meteorological experts as well as casual day-to-day customers. We looked at what information is important for both types of customers to know in an easy and fast manner. The main data that was important for our customers to know was: the temperature forecast (with a maximum and minimum value), the humidity outside, and a reasonable weather prediction. This way the user can receive a notification to their phone so that way they can get ready for their day while taking into consideration the weather forecast.
 
 For the list of searches done, please go to [Appendix B: User Needs, Benchmarking, and Requirements](UserNeedsBenchmarking&Requirements.md)
 
@@ -65,7 +65,7 @@ For the list of searches done, please go to [Appendix B: User Needs, Benchmarkin
 
 ![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/1c50efb9-c2e4-46b3-be68-892ffd01acc7)
 
-DELETE LATER "For example, how did your team organize, combine, and split needs into the list you arrived at? Justify the process by which your team assigned weights for importance, using both interview notes and internal team discussions."
+To find the required needs for the device and facilitate organizing the ideas into their categories, the team first brainstormed the multiple needs of the customers.
 
 **Grouped Needs:**
 
