@@ -117,64 +117,63 @@
 
 | Concept Sketch 1 - Motor Controlled Temperature Gauge | Concept Sketch 2 - Rover Weather Station | Concept Sketch 3 - Weather Bug 2000 |
 | ---------------------------------------- | --------- | ------- |
-|  IR Sensor |Evaporation Sensor
-LEDs |IR Sensor
-  Orange LEDs |Camera
-  Red LEDs | Barometer
-  Yellow LEDs | Pyranometer
-  Blue LEDs |Wheels
-  Brown LEDs |Threaded wheels
-  RGB LEDs |Rubber wheels
-  Teal LEDs |Large wheels (>6 in)
-  Red LEDs |Small Wheels (<6 in)
-  LCD Screen| Orange LEDs
-  LED Strip |Yellow LEDs
-  Suspension frame| RGB LEDs
-  Suspension shocks| LCD Screen
-  Suspension springs | LED Strip
-  Has Asimov’s laws of robotics| Suspension frame
-  Easily assembled |Suspension shocks
-  It's made out of metal| Suspension springs
-  Design can reasonably be made in CAD software| Has Asimov’s laws of robotics
-  It's made out of polycarbonate | Easily assembled
-  Easy to use and control | It's made out of metal
-  It's made out of ABS | Design can reasonably be made in CAD software
-  Wifi connectivity | It's made out of polycarbonate
-  Send information to a server/device| Easy to use and control
-  Controlled via wifi | It's made out of ABS
-  A place for User input| It's made out of PVC
-  Survives a 1 ft Drop test |Wifi connectivity
-  Handles for easy carry| Send information to a server/device
-  Rubber padded| Controlled via wifi
-  Bumpers| Handles for easy carry
-  Safe for all| Bumpers
-  User friendly| Safe for all
-  Rounded corners| User friendly
-  Resistors to ensure it doesn’t combust| Resistors to ensure it doesn’t combust
-  Functional Sensors| Durable
-  Working/appropriate Battery Connection| Humidity Sensor
-  Durable| Noise
-  No sharp corners|
-  Motion Sensor| 
-  Humidity Sensor|
-  Photoresistor|
-  Noise|
-  It's made out of graphene|
-  It is powered by batteries|
-  It is powered by solar power|
-  It is powered by wind turbine|
-  It is powered by fire|
-  It is powered by gas|
-  Electronics contain a reliable voltage regulator|
-  Electronics contain a DC motor|
- Electronics contain custom PCB|
- Electronics contain an LCD screen|
- Electronics contain fuses|
- Electronics contain a brushless motor|
- Modular Design|
- It has a camera| Evaporation Sensor|
+|  IR Sensor |Evaporation Sensor| Tempature Sensor
+LEDs |IR Sensor| Humitity Sensor
+  Orange LEDs |Camera|Threaded wheels
+  Red LEDs | Barometer|Camera
+  Yellow LEDs | Pyranometer|Treads
+  Blue LEDs |Wheels|Ability to jump
+  Brown LEDs |Threaded wheels|LED Strip
+  RGB LEDs |Rubber wheels|Suspension frame
+  Teal LEDs |Large wheels (>6 in)|Has Asimov’s laws of robotics
+  Red LEDs |Small Wheels (<6 in)|Easily assembled
+  LCD Screen| Orange LEDs|It's made out of metal
+  LED Strip |Yellow LEDs|Design can reasonably be made in CAD software
+  Suspension frame| RGB LEDs|It's made out of polycarbonate
+  Suspension shocks| LCD Screen|Easy to use and control
+  Suspension springs | LED Strip|It's made out of ABS
+  Has Asimov’s laws of robotics| Suspension frame|It's made out of resins
+  Easily assembled |Suspension shocks|It's made out of carbon fiber
+  It's made out of metal| Suspension springs|Wifi connectivity
+  Design can reasonably be made in CAD software| Has Asimov’s laws of robotics|Send information to a server/device
+  It's made out of polycarbonate | Easily assembled|Controlled via wifi
+  Easy to use and control | It's made out of metal| A place for User input
+  It's made out of ABS | Design can reasonably be made in CAD software| Survives a 1 ft Drop test
+  Wifi connectivity | It's made out of polycarbonate|Flags to show position
+  Send information to a server/device| Easy to use and control|Sturdy (withstand 100N of force)
+  Controlled via wifi | It's made out of ABS|Handles for easy carry
+  A place for User input| It's made out of PVC| Rubber padded
+  Survives a 1 ft Drop test |Wifi connectivity|Bumpers
+  Handles for easy carry| Send information to a server/device| Safe for all
+  Rubber padded| Controlled via wifi| User friendly
+  Bumpers| Handles for easy carry|Rounded corners
+  Safe for all| Bumpers|Resistors to ensure it doesn’t combust
+  User friendly| Safe for all|Functional Sensors
+  Rounded corners| User friendly|Working/appropriate Battery Connection
+  Resistors to ensure it doesn’t combust| Resistors to ensure it doesn’t combust|Durable
+  Functional Sensors| Durable|No sharp corners
+  Working/appropriate Battery Connection| Humidity Sensor|Motion Sensor
+  Durable| Noise|Photoresistor
+  No sharp corners|Anemometer|Noise
+  Motion Sensor| Hygrometer|It's made out of graphene
+  Humidity Sensor| It's made out of graphene|It is powered by batteries
+  Photoresistor|It is powered by batteries|Electronics have barrel jack connectors
+  Noise| Electronics use sturdy wires|Electronics have JST’s
+  It's made out of graphene| Electronics contain a reliable voltage regulator|Electronics use sturdy wires
+  It is powered by batteries| Electronics contain a DC motor|Electronics contain a reliable voltage regulator
+  It is powered by solar power| Electronics contain custom a PCB|Electronics contain a DC motor
+  It is powered by wind turbine| Electronics contain an LCD screen|Electronics contain custom a PCB
+  It is powered by fire| Electronics contain fuses|Electronics contain an LCD screen
+  It is powered by gas| Electronics contain capacitors|Electronics contain capacitors
+  Electronics contain a reliable voltage regulator| It has airless wheels|Electronics contain brushed motor
+  Electronics contain a DC motor| It has an IR Sensor|Electronics contain a brushless motor
+ Electronics contain custom PCB| Electronics covered|It has airless wheels
+ Electronics contain an LCD screen| Electronics easily removable|It has an IR Sensor
+ Electronics contain fuses|Modular Design|Electronics covered
+ Electronics contain a brushless motor| It has a camera|Electronics easily removable
+ Modular Design|Electronics have barrel jack connectors|Modular Design
+ It has a camera| Evaporation Sensor|It has a camera
 
- | 1 |
 
 ## Designs/Products
 
