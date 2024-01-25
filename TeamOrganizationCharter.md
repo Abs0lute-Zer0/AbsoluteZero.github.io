@@ -18,7 +18,14 @@ Communication Channels
 
 _Table 1: Team Member Communication Modes_
 
-Enter the table IDK how
+| Name | First Choicw Communication | Second Choice Communication | Third Choice Communication |
+| ---------------------------------------- | --------- | ------- | --------|
+| Jillian Brooke | Phone: 480-416-3037 | Email: jlbrooke@asu.edu | Email: jillian.brooke.asi@gmail.com |
+| Briana Wells | Phone: 520-220-1003 | Email: bwells17@asu.edu | Email: briana.mwells@yahoo.com |
+|Alex Gutierrez|Phone: 602-338-0090|Email: maguti43@asu.edu|Discord:
+sparercomic228|
+|Raj Kodithyala|Text: 971-330-8621|Email: rkodithy@asu.edu| Discord:
+fourflash|
 
 ## Communication Procedures
 Main communication will be maintained through texts in a project group chat in which everyone is expected to respond as soon as possible. If someone is unable to communicate via text, details will be shared via the listed email. If this proves ineffective there will be a meeting to discuss future means for team communication, whether that be via Discord or a different platform. Additionally, in the event of a member being uncooperative in terms of communication, the procedure following that is outlined in Conflict Recognition and Resolution.
@@ -36,7 +43,12 @@ All times are subject to change given what is necessary to finish assignments an
 
 _Table 2: Project Roles and Duties_
 
-Enter table IDK how
+| Role | Member | Duties |
+| ---------------------------------------- | --------- | ------- |
+| Meeting leader | Functionality | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting. |
+| Meeting recorder | Briana Wells | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned. |
+|Assignment leader|Jillian Brooke|Coordinates the team's work on a given assignment to Canvas before the due date|
+|Project Monitor|Raj Kodithyala|Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status.|
 
 Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status.
 
