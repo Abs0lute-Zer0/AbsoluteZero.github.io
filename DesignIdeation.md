@@ -115,7 +115,66 @@
 
 ## Sort, Rank, & Group Design Concepts
 
-Insert Table
+| Concept Sketch 1 - Motor Controlled Temperature Gauge | Concept Sketch 2 - Rover Weather Station | Concept Sketch 3 - Weather Bug 2000 |
+| ---------------------------------------- | --------- | ------- |
+|  IR Sensor |Evaporation Sensor
+LEDs |IR Sensor
+  Orange LEDs |Camera
+  Red LEDs | Barometer
+  Yellow LEDs | Pyranometer
+  Blue LEDs |Wheels
+  Brown LEDs |Threaded wheels
+  RGB LEDs |Rubber wheels
+  Teal LEDs |Large wheels (>6 in)
+  Red LEDs |Small Wheels (<6 in)
+  LCD Screen| Orange LEDs
+  LED Strip |Yellow LEDs
+  Suspension frame| RGB LEDs
+  Suspension shocks| LCD Screen
+  Suspension springs | LED Strip
+  Has Asimov’s laws of robotics| Suspension frame
+  Easily assembled |Suspension shocks
+  It's made out of metal| Suspension springs
+  Design can reasonably be made in CAD software| Has Asimov’s laws of robotics
+  It's made out of polycarbonate | Easily assembled
+  Easy to use and control | It's made out of metal
+  It's made out of ABS | Design can reasonably be made in CAD software
+  Wifi connectivity | It's made out of polycarbonate
+  Send information to a server/device| Easy to use and control
+  Controlled via wifi | It's made out of ABS
+  A place for User input| It's made out of PVC
+  Survives a 1 ft Drop test |Wifi connectivity
+  Handles for easy carry| Send information to a server/device
+  Rubber padded| Controlled via wifi
+  Bumpers| Handles for easy carry
+  Safe for all| Bumpers
+  User friendly| Safe for all
+  Rounded corners| User friendly
+  Resistors to ensure it doesn’t combust| Resistors to ensure it doesn’t combust
+  Functional Sensors| Durable
+  Working/appropriate Battery Connection| Humidity Sensor
+  Durable| Noise
+  No sharp corners|
+  Motion Sensor|
+  Humidity Sensor|
+  Photoresistor|
+  Noise|
+  It's made out of graphene|
+  It is powered by batteries|
+  It is powered by solar power|
+  It is powered by wind turbine|
+  It is powered by fire|
+  It is powered by gas|
+  Electronics contain a reliable voltage regulator|
+  Electronics contain a DC motor|
+ Electronics contain custom PCB|
+ Electronics contain an LCD screen|
+ Electronics contain fuses|
+ Electronics contain a brushless motor|
+ Modular Design|
+ It has a camera| Evaporation Sensor|
+
+ | 1 |
 
 ## Designs/Products
 
