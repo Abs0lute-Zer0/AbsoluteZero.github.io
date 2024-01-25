@@ -65,11 +65,12 @@ For the list of searches done, please go to [Appendix B: User Needs, Benchmarkin
 
 ![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/1c50efb9-c2e4-46b3-be68-892ffd01acc7)
 
-To find the required needs for the device and facilitate organizing the ideas into their categories, the team first brainstormed the multiple needs of the customers.
+To find the required needs for the device and facilitate organizing the ideas into their categories, the team first brainstormed the needs of the customers based on what we felt the user would care about the most. Initially, the ideas were unrelated but after some work many themes were realized. The team then continued to expand on each theme with the required needs being centered around any potential users.
 
 **Grouped Needs:**
 
 ![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/1ac142df-68d1-4513-b9c8-efc182f107dd)
+
 
 DELETE LATER "Discuss the process by which your team converted user needs into specifications."
 
@@ -81,7 +82,7 @@ DELETE LATER "Discuss, with detail, how your design will be assessed according t
 
 ### Compiled List of Ideas
 
-DELETE LATER "Include a breif description of how you came up with thte ideas, then include a short list of the top ideads that you came up with"
+DELETE LATER "Include a brief description of how you came up with thte ideas, then include a short list of the top ideads that you came up with"
 
 For the rest of the list of ideas, please see 
 [Appendix B: User Needs, Benchmarking, and Requirements](UserNeedsBenchmarking&Requirements.md)
