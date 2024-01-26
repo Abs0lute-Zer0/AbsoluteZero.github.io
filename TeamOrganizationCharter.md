@@ -18,7 +18,7 @@ Communication Channels
 
 _Table 1: Team Member Communication Modes_
 
-| Name | First Choicw Communication | Second Choice Communication | Third Choice Communication |
+| Name | First Choice Communication | Second Choice Communication | Third Choice Communication |
 | ---------------------------------------- | --------- | ------- | --------|
 | Jillian Brooke | Phone: 480-416-3037 | Email: jlbrooke@asu.edu | Email: jillian.brooke.asi@gmail.com |
 | Briana Wells | Phone: 520-220-1003 | Email: bwells17@asu.edu | Email: briana.mwells@yahoo.com |
