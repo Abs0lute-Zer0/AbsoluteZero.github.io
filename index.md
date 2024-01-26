@@ -94,12 +94,17 @@ For the rest of the list of ideas, please see
 
 ## Design Ideation
 
+**Team Idea Generation:**
+The team felt it was best to first identify several big themes of ideas like safety features and sensor features and then brainstorm features that can fit each category. After writing any big concepts, every person expanded on an assigned concept and generated as many ideas as they could. 
+
+**Brainstorming:**
+Initially, the team planned on blindly generating lots of ideas but later on it was discovered that generating features based on pre-planned categories proved to be more efficient. Of course, there is a limitation to potential ideas if the categories have to be pre-planned and therefore the team thought it was best to also include free-flowing ideas that may not fall under any category. 
 [Appendix C: Design Ideation](DesignIdeation.md)
 
 ## Presentation 1
 
-Include a quite introduction to what all is in this section
-Include the link to the youtube video
+Include a quiet introduction to what all is in this section
+Include the link to the YouTube video
 
 ## [Appendix](Appendix.github.md)
 
