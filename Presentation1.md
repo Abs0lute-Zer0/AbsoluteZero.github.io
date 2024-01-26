@@ -1,5 +1,4 @@
 # Presentation 1
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PEDgt7GWlsU?si=n9Fq0kQ3prhjSEFr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Recording of Team 314 (Absolute Zero) Project Checkpoint 1 for EGR 314](https://img.youtube.com/vi/PEDgt7GWlsU/0.jpg)](https://youtu.be/PEDgt7GWlsU)
 
 The above image is preview of the presentation which can be watched via clicking the image link to the full recorded presentation.
