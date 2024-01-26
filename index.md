@@ -114,3 +114,5 @@ Include the link to the YouTube video
 
 ## [Appendix](Appendix.github.md)
 
+Click to see all appendices. 
+
