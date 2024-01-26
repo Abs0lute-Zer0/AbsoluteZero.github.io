@@ -103,7 +103,7 @@ Initially, the team planned on blindly generating lots of ideas but later on it 
 **Organization and Ranking Process:**
 After all the ideas were generated, the team discussed what type of features were most important based on the categories that we thought of during the user needs generation section. As expected, the safety and functionality features were given high importance in a similar order of importance as previously stated in the user needs section. 
 
-[Appendix C: Design Ideation](DesignIdeation.md)
+For a more detailed explanation, please see [Appendix C: Design Ideation](DesignIdeation.md)
 
 ## Presentation 1
 
