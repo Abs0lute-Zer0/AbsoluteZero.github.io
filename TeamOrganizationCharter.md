@@ -48,7 +48,6 @@ _Table 2: Project Roles and Duties_
 |Assignment leader|Jillian Brooke|Coordinates the team's work on a given assignment to Canvas before the due date|
 |Project Monitor|Raj Kodithyala|Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status.|
 
-Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status.
 
 ## Role & Responsibility Accountability Procedure
 There is slight fluidity in the roles, although the primary responsibility and culpability is going to be on the assigned person for each set of duties. Generally, everyone has a responsibility to bring something to the table, and while it’s assumed that some of the duties will be done by each individual, it’s important for each listed member to at minimum do their role for the group. If any individual requires assistance, they are welcome and expected to ask other members for help. Additionally, if any member is to notice something is incorrect or incomplete, then it is expected that that member to tell the group so that proper corrections can be made.
