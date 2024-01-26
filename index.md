@@ -65,15 +65,19 @@ For the list of searches done, please go to [Appendix B: User Needs, Benchmarkin
 
 ![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/1c50efb9-c2e4-46b3-be68-892ffd01acc7)
 
+Figure 1: Board of Needs
+
 **Grouped Needs:**
 
 ![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/1ac142df-68d1-4513-b9c8-efc182f107dd)
 
-
+Figure 2: Group Needs
 
 **Ranked Needs:**
 
 ![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/8c476fa1-5221-4085-8f3c-b90763efc028)
+
+Figure 3: Ranked Needs
 
 **Process of Creating User Needs:**
 To find the required needs for the device and facilitate organizing the ideas into their categories, the team first brainstormed the needs of the customers based on what we felt the user would care about the most. Initially, the ideas were unrelated but after some work many themes were realized. The team then continued to expand on each theme with the required needs being centered around any potential users.
@@ -87,7 +91,22 @@ The final product's design will be thoroughly assessed on all product aspects as
 
 ### Compiled List of Ideas
 
-DELETE LATER "Include a brief description of how you came up with these ideas, then include a short list of the top ideas that you came up with"
+The team worked to sort and rank these needs based on the requirements of the project. Additionally, the team took into consideration the needs and requirements that users would also need in order for the project to be user friendly and meet the criteria of the class.
+
+Table 1: Short list of ranked project/customer needs
+
+| Restated Customer Need (Explicit/Latent) | Meta Need | Ranking |
+| ---------------------------------------- | --------- | ------- |
+| Cost efficient | Functionality | 1 |
+| Accurate | Functionality | 2 |
+|barometer (measures atmospheric pressure)|Functionality|3|
+|rigid body|Functionality|4|
+|mobile|Functionality|5|
+|economical|Accessibility|6|
+|need-based|Functionality|7|
+|survives a 6-inch drop|Functionality|8|
+|Minimal amount of assembly|Functionality|9|
+|Can send information over Wifi|Functionality|10|
 
 For the rest of the list of ideas, please see 
 [Appendix B: User Needs, Benchmarking, and Requirements](UserNeedsBenchmarking&Requirements.md)
