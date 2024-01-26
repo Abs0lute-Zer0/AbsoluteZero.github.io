@@ -101,7 +101,7 @@ The team felt it was best to first identify several big themes of ideas like saf
 Initially, the team planned on blindly generating lots of ideas but later on it was discovered that generating features based on pre-planned categories proved to be more efficient. Of course, there is a limitation to potential ideas if the categories have to be pre-planned and therefore the team thought it was best to also include free-flowing ideas that may not fall under any category. 
 
 **Organization and Ranking Process:**
-After all the ideas were generated, the team discussed what type of features were most important based on the categories that we thought of during the user needs generation section. As expected, the safety and functionality features were given high importance in a similar order of importance as previously stated in the user needs section. 
+After all the ideas were generated, the team discussed what type of features were most important based on the categories that we thought of during the user needs generation section. As expected, the safety and functionality features were given high importance in a similar order of importance as previously stated in the user needs section. After the team settled on three design concepts each concept was sketched by a seperate person. Jillian Brooke sketched the Weather Bug 2000 concept, Raj Kodithyal sketched the Motor Controlled Temperature Gauge concept, and Briana Wells sketched the Rover Weather Station concept.
 
 For a more detailed explanation, please see [Appendix C: Design Ideation](DesignIdeation.md)
 
