@@ -87,7 +87,7 @@ The final product's design will be thoroughly assessed on all product aspects as
 
 ### Compiled List of Ideas
 
-DELETE LATER "Include a brief description of how you came up with thte ideas, then include a short list of the top ideads that you came up with"
+DELETE LATER "Include a brief description of how you came up with these ideas, then include a short list of the top ideas that you came up with"
 
 For the rest of the list of ideas, please see 
 [Appendix B: User Needs, Benchmarking, and Requirements](UserNeedsBenchmarking&Requirements.md)
