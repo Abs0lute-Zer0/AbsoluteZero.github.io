@@ -99,11 +99,17 @@ The team felt it was best to first identify several big themes of ideas like saf
 
 **Brainstorming:**
 Initially, the team planned on blindly generating lots of ideas but later on it was discovered that generating features based on pre-planned categories proved to be more efficient. Of course, there is a limitation to potential ideas if the categories have to be pre-planned and therefore the team thought it was best to also include free-flowing ideas that may not fall under any category. 
+
+**Organization and Ranking Process:**
+After all the ideas were generated, the team discussed what type of features were most important based on the categories that we thought of during the user needs generation section. As expected, the safety and functionality features were given high importance in a similar order of importance as previously stated in the user needs section. 
+
 [Appendix C: Design Ideation](DesignIdeation.md)
 
 ## Presentation 1
 
-Include a quiet introduction to what all is in this section
+**Introduction:**
+This section showcases the first milestone of the project which depicts the initial design concept phase. Demonstrated with a video, the team showcases the user and product requirements along with possible design solutions. 
+
 Include the link to the YouTube video
 
 ## [Appendix](Appendix.github.md)
