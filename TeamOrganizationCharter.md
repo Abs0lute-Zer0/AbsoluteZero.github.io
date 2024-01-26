@@ -20,10 +20,10 @@ _Table 1: Team Member Communication Modes_
 
 | Name | First Choice Communication | Second Choice Communication | Third Choice Communication |
 | ---------------------------------------- | --------- | ------- | --------|
-| Jillian Brooke | Phone | Email: jlbrooke@asu.edu | Email|
-| Briana Wells | Phone | Email: bwells17@asu.edu | Email|
-|Alex Gutierrez|Phone|Email: maguti43@asu.edu|Discord|
-|Raj Kodithyala|Text|Email: rkodithy@asu.edu| Discord|
+| Jillian Brooke | Phone | Email: School | Email|
+| Briana Wells | Phone | Email: School | Email|
+|Alex Gutierrez|Phone|Email: School|Discord|
+|Raj Kodithyala|Text|Email: rSchool| Discord|
 
 ## Communication Procedures
 Main communication will be maintained through texts in a project group chat in which everyone is expected to respond as soon as possible. If someone is unable to communicate via text, details will be shared via the listed email. If this proves ineffective there will be a meeting to discuss future means for team communication, whether that be via Discord or a different platform. Additionally, in the event of a member being uncooperative in terms of communication, the procedure following that is outlined in Conflict Recognition and Resolution.
