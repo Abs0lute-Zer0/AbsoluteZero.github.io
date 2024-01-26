@@ -1,7 +1,4 @@
 # Presentation 1
-{% raw %}
-{% include youtube.html id="PEDgt7GWlsU" %}
-{% endraw %}
 
 {% include youtube.html id="PEDgt7GWlsU" %}
 
