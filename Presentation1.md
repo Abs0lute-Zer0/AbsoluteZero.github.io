@@ -1,5 +1,7 @@
 # Presentation 1
 
-<iframe width="500" height="300" src="https://www.youtube.com/embed/PEDgt7GWlsU" frameborder="0" allowfullscreen></iframe>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=PEDgt7GWlsU"><img src="https://img.youtube.com/vi/PEDgt7GWlsU/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div
 
 The above image is preview of the presentation which can be watched via clicking the image link to the full recorded presentation.
