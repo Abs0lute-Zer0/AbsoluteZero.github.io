@@ -132,7 +132,7 @@ This section showcases the first milestone of the project which depicts the init
 The full recording of the presentation can be accessed [here](https://youtu.be/PEDgt7GWlsU) or via the preview seen in [Appendix D: Presentation 1](Presentation1.md)
 
 ## Selected Design
-INSTRUCTIONS (DELETE LATER): Provide a figure/rendering of your product in its current form. Highlight features that satisfy user needs, with labels and arrows. You may update or re-work one of the images from design ideation, or start from scratch if you prefer.
+INSTRUCTIONS (DELETE LATER): Provide a figure/rendering of your product in its current form. Highlight features that satisfy user needs, with labels and arrows. You may update or re-work one of the images from design creativity, or start from scratch if you prefer.
 
 ## Block Diagram
 
@@ -140,6 +140,9 @@ INSTRUCTIONS (DELETE LATER): Provide a figure/rendering of your product in its c
 
 Figure 4: Block Diagram
 
+The requirements for this project were a key consideration for the team when it came time to designing subsystems and grouping them into appropriate groupings. The requirements for this project were that the system must include at least two separate serial sensors, which could include the following: temperature, humidity, atmospheric pressure, wind speed, or other modalities with instructors' approval. Additionally, the project must include at least one motor controlled by a motor controlled via I2C or SPI.
+
+The team then worked to divide the work between group members to ensure that all subsystems had a team member working on each section. The subsystems were divided as follows: 
 INSTRUCTIONS (DELETE LATER): Provide an up-to-date, high-quality rendering of your team's block diagram
 Discuss each teammate's subsystem and how they together achieve project requirements.
 
