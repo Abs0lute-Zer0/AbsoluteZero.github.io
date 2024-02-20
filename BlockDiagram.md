@@ -15,3 +15,6 @@ The team then worked to divide the work between group members to ensure that all
 The Microcontroller and ESP32 Subsystems work to meet the requirement that the project must be able to communicate via wifi, to send the sensor data to the user. The humidity and temperature sensors work to fulfill the requirement to have at least two separate serial sensors, to measure the appropriate values in the device's environment. The SPI Motor Driver works to fulfill the requirement to include at least one motor controlled via I2C or SPI, used to raise a flag in the instance that the device detects environmental values that are deemed dangerous. Additionally, the extra Momenent system is an addition that the team decided to do to allow the device to traverse its environment.
 
 ## Verification Table
+
+Table 1: Verification Table
+![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/2a1b9f25-7edb-46dd-b786-642442e6027e)
