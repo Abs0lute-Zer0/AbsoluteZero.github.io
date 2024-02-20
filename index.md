@@ -152,8 +152,6 @@ The Microcontroller and ESP32 Subsystems work to meet the requirement that the p
 
 For more details, please see [Appendix E: Block Diagram and Verification Table](BlockDiagram.md)
 
-INSTRUCTIONS (DELETE LATER): Provide an up-to-date, high-quality rendering of your team's block diagram
-Discuss each teammate's subsystem and how they together achieve project requirements.
 
 ## Component Selections 
 
