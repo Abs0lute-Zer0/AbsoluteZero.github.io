@@ -7,3 +7,5 @@
 ## [Appendix C: Design Ideation](DesignIdeation.md)
 
 ## [Appendix D: Presentation 1](Presentation1.md)
+
+## [Appendix E: Block Diagram and Verification Table](BlockDiagram.md)
