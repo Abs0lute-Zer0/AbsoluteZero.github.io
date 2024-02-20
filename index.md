@@ -135,6 +135,11 @@ The full recording of the presentation can be accessed [here](https://youtu.be/P
 INSTRUCTIONS (DELETE LATER): Provide a figure/rendering of your product in its current form. Highlight features that satisfy user needs, with labels and arrows. You may update or re-work one of the images from design ideation, or start from scratch if you prefer.
 
 ## Block Diagram
+
+![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/118a0990-7884-4c33-ace3-db559e496425)
+
+Figure 4: Block Diagram
+
 INSTRUCTIONS (DELETE LATER): Provide an up-to-date, high-quality rendering of your team's block diagram
 Discuss each teammate's subsystem and how they together achieve project requirements.
 
