@@ -150,7 +150,7 @@ The team then worked to divide the work between group members to ensure that all
 
 The Microcontroller and ESP32 Subsystems work to meet the requirement that the project must be able to communicate via wifi, to send the sensor data to the user. The humidity and temperature sensors work to fulfill the requirement to have at least two separate serial sensors, to measure the appropriate values in the device's environment. The SPI Motor Driver works to fulfill the requirement to include at least one motor controlled via I2C or SPI, used to raise a flag in the instance that the device detects environmental values that are deemed dangerous. Additionally, the extra Momenent system is an addition that the team decided to do to allow the device to traverse its environment.
 
-For more details, please see [Appendix D: Block Diagram and Verification Table](BlockDiagram.md)
+For more details, please see [Appendix E: Block Diagram and Verification Table](BlockDiagram.md)
 
 INSTRUCTIONS (DELETE LATER): Provide an up-to-date, high-quality rendering of your team's block diagram
 Discuss each teammate's subsystem and how they together achieve project requirements.
