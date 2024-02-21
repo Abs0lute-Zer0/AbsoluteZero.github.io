@@ -9,11 +9,11 @@
 ## Preliminary Design Needs
 | Design Considerations | PIC Option 1 | PIC Option 2 |PIC Option 3 |
 | ---------------------------------------- | --------- | --------- | --------- |
-| Part Number | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
-| Part Number | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
-| Part Number | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
-| Part Number | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
-| Part Number | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
+| How many GPIO Pins? | 35 | 35 | 28 |
+| Built-in Analog to Digital Converter? How many? | Yes, 1 | Yes, 1 | Yes, 1 |
+| Built-in Hardware PWM? How many? | Yes, 1 | Yes, 1 | Yes, 1 |
+| Built-in I2C? SPI? How many? | Yes, 1 each | Yes, 1 each | Yes, 1 each |
+| Built-in UART? How many? | Yes, 1 | Yes, 1 | Yes, 1 |
 
 ## Selection Table
 | Microcontroller Considerations | PIC Option 1 | PIC Option 2 |PIC Option 3 |
