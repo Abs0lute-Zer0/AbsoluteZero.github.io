@@ -6,9 +6,16 @@
 
 #### Raj Kodithyala, Jillian Brooke, Alex Gutierrez, Briana Wells
 
+| Design Considerations | PIC Option 1 | PIC Option 2 |PIC Option 3 |
+| ---------------------------------------- | --------- | --------- | --------- |
+| Part Number | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
+| Part Number | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
+| Part Number | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
+| Part Number | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
+| Part Number | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
 
 Selection Table
-| Design Considerations | PIC Option 1 | PIC Option 2 |PIC Option 3 |
+| Microcontroller Considerations | PIC Option 1 | PIC Option 2 |PIC Option 3 |
 | ---------------------------------------- | --------- | --------- | --------- |
 | Part Number | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
 | Link (URL) to the Product Page | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
