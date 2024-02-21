@@ -174,7 +174,9 @@ Be prepared to discuss your UML Diagram
 ![Team304_SoftwareProposal](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/135275139/08354b56-f796-4863-a2f2-b58312be190e)
 Figure #: Software Proposal
 
-For the software of this project, the team decided to set up the code in a way that after the system is initialized, the
+For the software of this project, the team decided to set up the code in a way that after the system is initialized and interrupts are enabled, the program will check on the temperature of the area, using the respective sensor via I2C communication, and update the user on the current temperature. After that, if the temperature is above a certain margin, the microcontroller will send a signal to the motor via SPI for it to raise a flag to alert the user about the higher temperatures, this flag will stay up until the temperature has decreased to below the alert margin. Lastly, the humidity sensor will check the humidity of the area and send the information to the user via I2C.
+
+For more details, please see Appendix #: Software Proposal
 
 ## [Appendix](Appendix.github.md)
 
