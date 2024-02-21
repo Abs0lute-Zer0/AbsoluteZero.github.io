@@ -6,6 +6,7 @@
 
 ### Raj Kodithyala, Jillian Brooke, Alex Gutierrez, Briana Wells
 
+
 | Design Considerations | PIC Option 1 | PIC Option 2 |PIC Option 3 |
 | ---------------------------------------- | --------- | --------- | --------- |
-|  IR Sensor |Evaporation Sensor| Tempature Sensor
+| a | Tempature Sensor| a | a|
