@@ -17,7 +17,7 @@
 
 ## Selection Table
 | Microcontroller Considerations | PIC Option 1 | PIC Option 2 |PIC Option 3 |
-| ---------------------------------------- | --------- | --------- | --------- |
+| ---------------------------------------- | -------- | -------- | -------- |
 | Part Number | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
 | Link (URL) to the Product Page | ? | ? | ? |
 | Links (URL) to Data Sheets | ? | ? | ? |
