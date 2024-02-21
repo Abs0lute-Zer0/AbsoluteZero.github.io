@@ -29,10 +29,10 @@
 | Absolute Maximum Current for entire IC | 16 mA or 12 mA | 16 mA or 12 mA | - |
 | Maximum GPIO Pin Current (Source/Sink) | 10 mA or 16 mA | 10 mA or 16 mA | - |
 | 8-bit or 16-bit Architecture | 16-bit | 16-bit | 8-bit |
-| Available IC Packages / Footprints | PIC24FJ32MC104 | PIC24HJ16GP304 | - |
-| Supports External Interrupts? | PIC24FJ32MC104 | PIC24HJ16GP304 | - |
-| In-System Programming Capability and Type | PIC24FJ32MC104 | PIC24HJ16GP304 | - |
-| Programming Hardware, Cost, and URL | PIC24FJ32MC104 | PIC24HJ16GP304 | - |
+| Available IC Packages / Footprints | Surface Mount | Surface Mount | Surface Mount |
+| Supports External Interrupts? | Yes | Yes | Yes |
+| In-System Programming Capability and Type | Yes | Yes | Yes |
+| Programming Hardware, Cost, and URL | MPLAB® PICkit™ 5 In-Circuit Debugger $94.99 | MPLAB® PICkit™ 5 In-Circuit Debugger $94.99 | - |
 | Works with MPLAB® X Integrated Development Environment (IDE)? | PIC24FJ32MC104 | PIC24HJ16GP304 | - |
 | Works with Microchip Code Configurator? | PIC24FJ32MC104 | PIC24HJ16GP304 | - |
 
