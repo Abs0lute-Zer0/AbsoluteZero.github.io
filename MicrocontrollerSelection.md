@@ -24,7 +24,7 @@
 | Links (URL) to Application Notes | ? | ? | ? |
 | Links (URL) to Code Examples | ? | ? | ? |
 | Links (URL) to External Resources | ? | ? | ? |
-| Production Unit Cost | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
+| Production Unit Cost | $4.13 | $4.60 | - |
 | Supply Voltage Range | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
 | Absolute Maximum Current for entire IC | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
 | Maximum GPIO Pin Current (Source/Sink) | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
