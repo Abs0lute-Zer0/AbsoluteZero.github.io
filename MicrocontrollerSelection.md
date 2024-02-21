@@ -4,7 +4,7 @@
 
 ### “We’re Up to Snow Good”
 
-### Raj Kodithyala, Jillian Brooke, Alex Gutierrez, Briana Wells
+#### Raj Kodithyala, Jillian Brooke, Alex Gutierrez, Briana Wells
 
 
 Selection Table
