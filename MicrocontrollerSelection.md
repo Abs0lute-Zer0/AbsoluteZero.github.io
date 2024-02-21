@@ -11,7 +11,7 @@
 | ---------------------------------------- | --------- | --------- | --------- |
 | How many GPIO Pins? | 35 | 35 | 28 |
 | Built-in Analog to Digital Converter? How many? | Yes, 1 | Yes, 1 | Yes, 1 |
-| Built-in Hardware PWM? How many? | Yes, 1 | Yes, 1 | Yes, 1 |
+| Built-in Hardware PWM? How many? | Yes, 4 | Yes, 2 | Yes, 1 |
 | Built-in I2C? SPI? How many? | Yes, 1 each | Yes, 1 each | Yes, 1 each |
 | Built-in UART? How many? | Yes, 1 | Yes, 1 | Yes, 1 |
 
