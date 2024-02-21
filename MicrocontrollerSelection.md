@@ -33,6 +33,6 @@
 | Supports External Interrupts? | Yes | Yes | Yes |
 | In-System Programming Capability and Type | Yes | Yes | Yes |
 | Programming Hardware, Cost, and URL | MPLAB® PICkit™ 5 In-Circuit Debugger $94.99 | MPLAB® PICkit™ 5 In-Circuit Debugger $94.99 | - |
-| Works with MPLAB® X Integrated Development Environment (IDE)? | PIC24FJ32MC104 | PIC24HJ16GP304 | - |
-| Works with Microchip Code Configurator? | PIC24FJ32MC104 | PIC24HJ16GP304 | - |
+| Works with MPLAB® X Integrated Development Environment (IDE)? | Yes | Yes | Yes |
+| Works with Microchip Code Configurator? | Yes | Yes | Yes |
 
