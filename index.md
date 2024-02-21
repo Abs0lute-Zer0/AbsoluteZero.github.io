@@ -171,6 +171,11 @@ Be prepared to discuss your schematic and Bill of Materials
 INSTRUCTIONS (DELETE LATER): Include your software proposal section / page, including a high-quality, crisp (not blurry) copy of your activity diagram(s) or state diagram(s), MCC configuration, and function declarations.
 Be prepared to discuss your UML Diagram
 
+![Team304_SoftwareProposal](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/135275139/08354b56-f796-4863-a2f2-b58312be190e)
+Figure #: Software Proposal
+
+For the software of this project, the team decided to set up the code in a way that after the system is initialized, the
+
 ## [Appendix](Appendix.github.md)
 
 Click to see all appendices. 
