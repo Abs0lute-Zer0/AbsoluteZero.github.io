@@ -25,14 +25,14 @@
 | Links (URL) to Code Examples | ? | ? | ? |
 | Links (URL) to External Resources | ? | ? | ? |
 | Production Unit Cost | $4.13 | $4.60 | - |
-| Supply Voltage Range | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
-| Absolute Maximum Current for entire IC | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
-| Maximum GPIO Pin Current (Source/Sink) | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
-| 8-bit or 16-bit Architecture | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
-| Available IC Packages / Footprints | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
-| Supports External Interrupts? | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
-| In-System Programming Capability and Type | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
-| Programming Hardware, Cost, and URL | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
-| Works with MPLAB® X Integrated Development Environment (IDE)? | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
-| Works with Microchip Code Configurator? | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
+| Supply Voltage Range | 3.0 V - 3.6 V | 3.0 V - 3.6 V | - |
+| Absolute Maximum Current for entire IC | 16 mA or 12 mA | 16 mA or 12 mA | - |
+| Maximum GPIO Pin Current (Source/Sink) | 10 mA or 16 mA | 10 mA or 16 mA | - |
+| 8-bit or 16-bit Architecture | 16-bit | 16-bit | 8-bit |
+| Available IC Packages / Footprints | PIC24FJ32MC104 | PIC24HJ16GP304 | - |
+| Supports External Interrupts? | PIC24FJ32MC104 | PIC24HJ16GP304 | - |
+| In-System Programming Capability and Type | PIC24FJ32MC104 | PIC24HJ16GP304 | - |
+| Programming Hardware, Cost, and URL | PIC24FJ32MC104 | PIC24HJ16GP304 | - |
+| Works with MPLAB® X Integrated Development Environment (IDE)? | PIC24FJ32MC104 | PIC24HJ16GP304 | - |
+| Works with Microchip Code Configurator? | PIC24FJ32MC104 | PIC24HJ16GP304 | - |
 
