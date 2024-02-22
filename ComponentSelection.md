@@ -14,7 +14,7 @@
 | Rayovac 9V Battery | -Cheap ($2.25)<br/>-Popular<br/>-Small | -Low Ah (0.8 Ah)<br/>-Non-Rechargeable |
 | 18650 Battery | -High Ah (2.2 Ah)<br/>-Popular<br/>-Rechargeable-Cheap ($2.40) | -Large<br/>-Requires Charger |
 
-## Fuse Source
+## Fuse
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
 | MFU0603FF01000P500 Fuse | -Handles up to 32V<br/>-1 Amp Limiter A<br/>-Low Cost ($0.24)<br/>-Small (0603 Package) | -Hard to Replace<br/>-Blows out Quickly |
