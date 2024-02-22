@@ -42,3 +42,7 @@
 | Overall Pros | -4 PWMs<br/>-16 Bit Chip<br/>Big Size (1.0 cm x 1.0 cm)| -Handles high current on its pins (up to 16mA)<br/>-16 bit Chip| -Cheap ($<br/>-Easy to Program |
 | Overall Cons | -Expensive programmer<br/>-1.0 cm x 1.0 cm| -2 PWMs<br/>-Expensive programmer | -1 PWM<br/>-8-Bit Chip<br/>-Small Size (0.8 cm x 0.8 cm) |
 | Ranking | 2 | 3 | 1 |
+
+## Final Selection
+#Final Microcontroller Choice: PIC24FJ32MC104
+Rationale: We decided to choose the PIC24FJ32MC104 because it has enough SPI, I2C, ADC, and PWM ports. Furthermore, it is also the cheapest microcontroller out of the three, so we buy lots of extras. 
