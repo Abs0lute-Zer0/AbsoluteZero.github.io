@@ -20,7 +20,7 @@
 | ---------------------------------------- | -------- | -------- | -------- |
 | Part Number | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10 |
 | Link (URL) to the Product Page | [PIC24FJ32MC104](https://www.microchip.com/en-us/product/PIC24FJ32MC104#document-table) |
-| Links (URL) to Data Sheets | [PIC24FJ32MC104]([https://www.microchip.com/en-us/product/PIC24FJ32MC104#document-table](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/30009997e.pdf)) | ? | [PIC18F27Q10](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf) |
+| Links (URL) to Data Sheets | [PIC24FJ32MC104]((https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/30009997e.pdf)) | ? | [PIC18F27Q10](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf) |
 | Links (URL) to Application Notes | ? | ? | [PIC18F27Q10](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf) |
 | Links (URL) to Code Examples | ? | ? | [PIC18F27Q10](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf) |
 | Links (URL) to External Resources | ? | ? | [PIC18F27Q10](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf) |
