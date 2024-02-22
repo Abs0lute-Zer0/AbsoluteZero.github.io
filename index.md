@@ -155,6 +155,8 @@ For more details, please see [Appendix E: Block Diagram and Verification Table](
 
 ## Component Selection 
 
+IF YOU ARE DOING THIS SECTION YOU MUST ALSO DO/INCLUDE THE POWER BUDGET.
+
 INSTRUCTIONS (DELETE LATER): INSTRUCTIONS (DELETE LATER): Include your component selection section/page.
 Highlight (and only discuss) the selected components, not the unselected alternatives.
 Be prepared to discuss your power budget
@@ -162,6 +164,9 @@ Be prepared to discuss your power budget
 For more details, please see [Appendix F: Component Selection](ComponentSelection.md)
 
 ## Microcontroller Selection
+
+NOTE: I'VE UPDATED THE MICROCONTROLLER SELECTION DOCUMENT TO INCLUDE THE MICROCONTROLLER WE CHOOSE.
+
 INSTRUCTIONS (DELETE LATER): Include your microcontroller selection assignment.
 Be prepared to discuss your selected microcontroller, and the rationale for selecting it over the alternatives, based on your design requirements.
 
