@@ -46,3 +46,13 @@
 
 **Choice: Option 1 (IFX9201SGAUMA1)**
 **Rationale:** We chose this dual-motor driver because of its cost-effectiveness and ease of use. Utilizing a dual half-H-bridge motor driver, this component lets us drive two motors with ease while not taking up a lot of PCB space. 
+
+## Temperature Sensor
+| **Solution** | **Pros** | **Cons** |
+| ---------------------------------------- | --------- | --------- |
+| TC74A0-3.3VCTTR | -3.3 Operating Voltage<br/>-Digital Signals<br/>-Cheap ($1.15)<br/>-Easy to use | -Tiny (1.9 x 1.2 mm) |
+| TC74A0-5.0VCTTR | -5.0 Operating Voltage<br/>-Digital Signals<br/>-Cheap ($1.15)<br/>-Easy to use | -Tiny (1.9 x 1.2 mm)<br/>-Low Temperature Accuracy |
+| TC74A0-3.3VAT | -3.3 Operating Voltage<br/>-Digital Signals<br/>-Easy to use | -Not I2C Viable<br/>-Not Surface Mount |
+
+**Choice: Option 1 (TC74A0-3.3VCTTR)**
+**Rationale:**  Option one is the most affordable, which works the best with the limited budget that the team is working in. Additionally, this component is the same one that the team will have worked with in class.
