@@ -15,6 +15,7 @@
 | 18650 Battery | -High Ah (2.2 Ah)<br/>-Popular<br/>-Rechargeable-Cheap ($2.40) | -Large<br/>-Requires Charger |
 
 **Choice: Option 3 (18650 Battery)**
+
 **Rationale:** Rechargeable with high amperage capable of delivering the appropriate voltage and current to all the components.
 
 ## Voltage Regulator
@@ -25,6 +26,7 @@
 | - | - | - |
 
 **Choice: Option - (-)**
+
 **Rationale:**  -
 
 ## Fuse
@@ -45,6 +47,7 @@
 | Sparkfun Motor | -Super Cheap ($1.20)<br/>-Low Voltage (7.2 V)<br/>-Gearbox (1:48) | -Large (70 mm x 36 mm)<br/>-Inconvenient shape<br/>-Small Shaft size|
 
 **Choice: Option 1**
+
 **Rationale:** We decided to go with the ROB-12429 DC Motor because it had a healthy balance between its size, weight, cost, and adaptability. It wasn’t too pricey for a quality DC motor, while still being small and lightweight. Its shaft design makes it easy to attach 3D-printed wheels and other 3D-printed components.
 
 ## Motor Driver
@@ -55,6 +58,7 @@
 | UC2638DW | -Advanced functionality<br/>-Dual motor driver | -Expensive ($10.75)<br/>-Large (20mm x 6.6mm)<br/>-Lots of extra pins |
 
 **Choice: Option 1 (IFX9201SGAUMA1)**
+
 **Rationale:** We chose this dual-motor driver because of its cost-effectiveness and ease of use. Utilizing a dual half-H-bridge motor driver, this component lets us drive two motors with ease while not taking up a lot of PCB space. 
 
 ## Temperature Sensor
@@ -65,6 +69,7 @@
 | TC74A0-3.3VAT | -3.3 Operating Voltage<br/>-Digital Signals<br/>-Easy to use | -Not I2C Viable<br/>-Not Surface Mount |
 
 **Choice: Option 1 (TC74A0-3.3VCTTR)**
+
 **Rationale:**  Option one is the most affordable, which works the best with the limited budget that the team is working in. Additionally, this component is the same one that the team will have worked with in class.
 
 ## Humidity Sensor
@@ -75,4 +80,5 @@
 | HTU31DI.C31DRH/T | -I2C Compatible<br/>-Humidity operating range from 0 to 100%<br/>-Low input voltage required (5.5Vmax) | -Expensive ($3.73)<br/>-No exterior legs for easy soldering |
 
 **Choice: Option 3 (HTU31DI.C31DRH/T)**
+
 **Rationale:**  Option three is the cheapest and has the same functionality as the rest of the sensors.
