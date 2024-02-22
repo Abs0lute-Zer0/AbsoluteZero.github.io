@@ -136,7 +136,7 @@ INSTRUCTIONS (DELETE LATER): Provide a figure/rendering of your product in its c
 
 ## Block Diagram
 
-![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/118a0990-7884-4c33-ace3-db559e496425)
+![Block Diagram-314 drawio (5)](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/d1b2f173-2f3a-421c-a1c0-bcb2f0a3a0b2)
 
 Figure 4: Block Diagram
 
@@ -155,7 +155,7 @@ For more details, please see [Appendix E: Block Diagram and Verification Table](
 
 ## Component Selection 
 
-INSTRUCTIONS (DELETE LATER): INSTRUCTIONS (DELETE LATER): Include your component selection section / page.
+INSTRUCTIONS (DELETE LATER): INSTRUCTIONS (DELETE LATER): Include your component selection section/page.
 Highlight (and only discuss) the selected components, not the unselected alternatives.
 Be prepared to discuss your power budget
 
@@ -174,7 +174,7 @@ Be prepared to discuss your schematic and Bill of Materials
 For more details, please see [Appendix H: Microcontroller Selection](MicrocontrollerSelection.md)
 
 ## Software Proposal
-INSTRUCTIONS (DELETE LATER): Include your software proposal section / page, including a high-quality, crisp (not blurry) copy of your activity diagram(s) or state diagram(s), MCC configuration, and function declarations.
+INSTRUCTIONS (DELETE LATER): Include your software proposal section/page, including a high-quality, crisp (not blurry) copy of your activity diagram(s) or state diagram(s), MCC configuration, and function declarations.
 Be prepared to discuss your UML Diagram
 
 ![Team304_SoftwareProposal](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/135275139/08354b56-f796-4863-a2f2-b58312be190e)
