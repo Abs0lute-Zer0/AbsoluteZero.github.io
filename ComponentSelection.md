@@ -26,10 +26,10 @@
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
 | NCP1532MUAATXG | -Outputs 3.3V<br/>-Adjustable Output voltage<br/>-Cheap ($1.52) | -Max input voltage is 5V<br/>-No exterior legs for easy soldering<br/>-No exterior legs for easy soldering |
-| TPS62745DSST | -Max input is 10V<br/>-Max output is 3.3V<br/>-Variable voltage output from 1.8 to 3.3V | -Expensive ($2.09)<br/>-No exterior legs for easy soldering |
-| - | - | - |
+| TPS62745DSST | -Max input is 10V<br/>-Max output is 3.3V<br/>-Variable voltage output from 1.8 to 3.3V-Cheap ($2.09) | -No exterior legs for easy soldering |
+| LM2575D2T | -Outputs 3.3V<br/>-Adjustable Output voltage<br/>-Cheap ($2.39) | - |
 
-**Choice: Option - (-)**
+**Choice: Option 3 (-)**
 
 **Rationale:**  -
 
