@@ -5,8 +5,8 @@
 ### “We’re Up to Snow Good”
 
 ### Raj Kodithyala, Jillian Brooke, Alex Gutierrez, Briana Wells
-
-## Power ADDDDDDDDD IMAGES
+# ADDDDDDDDD IMAGES
+## Power 
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
 | BA-5800 Military Class Battery | -High Ah (7.5 Ah)<br/>-Durable | -Expensive ($49.99)<br/>-Heavy<br/>-Large |
