@@ -18,5 +18,10 @@
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
 | MFU0603FF01000P500 Fuse | -Handles up to 32V<br/>-1 Amp Limiter A<br/>-Low Cost ($0.24)<br/>-Small (0603 Package) | -Expensive ($49.99)<br/>-Heavy<br/>-Large |
-| ERB-RE2R00V | -Handles up to 32V<br/>-2 Amp Limiter<br/>-Low Cost ($0.27)<br/>-Small (0603 Package) | -Low Ah (0.8 Ah)<br/>-Non-Rechargeable |
-| 0215002.MXP | -Handles up to 250V<br/>-2 Amp Limiter<br/>-Easy To Replace<br/>-Large | -Large<br/>-Requires Holder |
+| ERB-RE2R00V Fuse | -Handles up to 32V<br/>-2 Amp Limiter<br/>-Low Cost ($0.27)<br/>-Small (0603 Package) | -Low Ah (0.8 Ah)<br/>-Non-Rechargeable |
+| 0215002.MXP Fuse| -Handles up to 250V<br/>-2 Amp Limiter<br/>-Easy To Replace<br/>-Large | -Large<br/>-Requires Holder |
+
+## DC Motor
+| **Solution** | **Pros** | **Cons** |
+| ---------------------------------------- | --------- | --------- |
+| ROB-12429 Small Gearmotor | -Light (17.69 g)<br/>-1 Amp Limiter A<br/>-Low Cost ($13.95)<br/>-Small (26 x 12 x 10mm)<br/>-Easy to attach to shaft (dent in the shaft) | -Expensive ($49.99)<br/>-Heavy<br/>-Large |
