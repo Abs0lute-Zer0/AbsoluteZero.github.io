@@ -7,6 +7,8 @@
 ### Raj Kodithyala, Jillian Brooke, Alex Gutierrez, Briana Wells
 # ADDDDDDDDD IMAGES
 
+
+
 ## Power Source
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
@@ -17,6 +19,8 @@
 **Choice: Option 3 (18650 Battery)**
 
 **Rationale:** Rechargeable with high amperage capable of delivering the appropriate voltage and current to all the components.
+
+
 
 ## Voltage Regulator
 | **Solution** | **Pros** | **Cons** |
@@ -29,6 +33,8 @@
 
 **Rationale:**  -
 
+
+
 ## Fuse
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
@@ -38,6 +44,8 @@
 
 **Choice: Option 3**
 **Rationale:** This option is a reliable component with all the capabilities the team is looking for in terms of current limiting and circuit protection. While more expensive than the non-holder style fuses, the ability to quickly and easily replace this component is worth the extra expense in the eyes of the team. 
+
+
 
 ## DC Motor
 | **Solution** | **Pros** | **Cons** |
@@ -50,6 +58,8 @@
 
 **Rationale:** We decided to go with the ROB-12429 DC Motor because it had a healthy balance between its size, weight, cost, and adaptability. It wasn’t too pricey for a quality DC motor, while still being small and lightweight. Its shaft design makes it easy to attach 3D-printed wheels and other 3D-printed components.
 
+
+
 ## Motor Driver
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
@@ -61,6 +71,8 @@
 
 **Rationale:** We chose this dual-motor driver because of its cost-effectiveness and ease of use. Utilizing a dual half-H-bridge motor driver, this component lets us drive two motors with ease while not taking up a lot of PCB space. 
 
+
+
 ## Temperature Sensor
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
@@ -71,6 +83,8 @@
 **Choice: Option 1 (TC74A0-3.3VCTTR)**
 
 **Rationale:**  Option one is the most affordable, which works the best with the limited budget that the team is working in. Additionally, this component is the same one that the team will have worked with in class.
+
+
 
 ## Humidity Sensor
 | **Solution** | **Pros** | **Cons** |
