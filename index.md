@@ -177,7 +177,7 @@ For more details, please see [Appendix G: Microcontroller Selection](Microcontro
 
 ### [Team Bill Of Materials](https://docs.google.com/spreadsheets/d/1tEgSocMg7p1WsBFgXyOm4MPM_7w9kUdD/edit?usp=sharing&ouid=118237344388299811111&rtpof=true&sd=true) 
 
-For more details, please see [Appendix H: Microcontroller Selection](MicrocontrollerSelection.md)
+For more details, please see [Appendix H: Hardware Proposal](MicrocontrollerSelection.md)
 
 ## Software Proposal
 INSTRUCTIONS (DELETE LATER): Include your software proposal section/page, including a high-quality, crisp (not blurry) copy of your activity diagram(s) or state diagram(s), MCC configuration, and function declarations.
