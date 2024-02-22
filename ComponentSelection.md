@@ -42,3 +42,7 @@
 | ---------------------------------------- | --------- | --------- |
 | IFX9201SGAUMA1 | -Cheap ($4.00)<br/>-High voltages (40 V)<br/>-Dual Motor Driver (2 half h-bridges)<br/>-Small (7.8 mm x 10mm)<br/>-Easy to use | -Lots of extra pins (5/12 are used) |
 | TC642EOA713 | -Cheap ($2.23)<br/>-Easy to use<br/>-No wasted pins | -Can only drive single motor |
+| UC2638DW | -Advanced functionality<br/>-Dual motor driver | -Expensive ($10.75)<br/>-Large (20mm x 6.6mm)<br/>-Lots of extra pins |
+
+**Choice: Option 1 (IFX9201SGAUMA1)**
+**Rationale:** We chose this dual-motor driver because of its cost-effectiveness and ease of use. Utilizing a dual half-H-bridge motor driver, this component lets us drive two motors with ease while not taking up a lot of PCB space. 
