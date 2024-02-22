@@ -39,6 +39,6 @@
 ## Advantages & Disadvantages
 | Category | PIC Option 1 | PIC Option 2 |PIC Option 3 |
 | ---------------------------------------- | -------- | -------- | -------- |
-| Overall Pros | -Meets all the requirements we set -16 bit| PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
+| Overall Pros | -Lots of PWMs (4) -16 bit| PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
 | Overall Cons | ? | ? | ? |
-| Ranking | ? | ? | ? |
+| Ranking | 2 | 3 | 1 |
