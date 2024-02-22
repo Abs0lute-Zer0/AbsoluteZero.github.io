@@ -8,6 +8,6 @@
 
 
 ## Power
-| Solution | Pros | Cons |
+| **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
 | How many GPIO Pins? | 35 | 35 |
