@@ -36,3 +36,9 @@
 
 **Choice: Option 1**
 **Rationale:** We decided to go with the ROB-12429 DC Motor because it had a healthy balance between its size, weight, cost, and adaptability. It wasn’t too pricey for a quality DC motor, while still being small and lightweight. Its shaft design makes it easy to attach 3D-printed wheels and other 3D-printed components.
+
+## Motor Driver
+| **Solution** | **Pros** | **Cons** |
+| ---------------------------------------- | --------- | --------- |
+| IFX9201SGAUMA1 | -Cheap ($4.00)<br/>-High voltages (40 V)<br/>-Dual Motor Driver (2 half h-bridges)<br/>-Small (7.8 mm x 10mm)<br/>-Easy to use | -Lots of extra pins (5/12 are used) |
+| TC642EOA713 | -Cheap ($2.23)<br/>-Easy to use<br/>-No wasted pins | -Can only drive single motor |
