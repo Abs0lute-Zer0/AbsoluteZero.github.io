@@ -9,7 +9,7 @@ The requirements for this project were a key consideration for the team when it 
 The team then worked to divide the work between group members to ensure that all subsystems had a team member working on each section. The subsystems were divided as follows: 
 * Briana Wells: Microcontroller and ESP32
 * Raj Kodithyala: Humidity Sensor and Drive Motors
-* Alex Gutierrez: SPI Motor Driver
+* Alex Gutierrez: Reaction Motor & SPI Motor Driver
 * Jillian Brooke: Temperature Sensor and 3.3V Regulator
 
 The Microcontroller and ESP32 Subsystems work to meet the requirement that the project must be able to communicate via wifi, to send the sensor data to the user. The humidity and temperature sensors work to fulfill the requirement to have at least two separate serial sensors, to measure the appropriate values in the device's environment. The SPI Motor Driver works to fulfill the requirement to include at least one motor controlled via I2C or SPI, used to raise a flag in the instance that the device detects environmental values that are deemed dangerous. Additionally, the extra Momenent system is an addition that the team decided to do to allow the device to traverse its environment.
