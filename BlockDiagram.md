@@ -8,7 +8,7 @@ The requirements for this project were a key consideration for the team when it 
 
 The team then worked to divide the work between group members to ensure that all subsystems had a team member working on each section. The subsystems were divided as follows: 
 * Briana Wells: Microcontroller and ESP32
-* Raj Kodithyala: Humidity Sensor and Movement system/motors
+* Raj Kodithyala: Humidity Sensor and Drive Motors
 * Alex Gutierrez: SPI Motor Driver
 * Jillian Brooke: Temperature Sensor and 3.3V Regulator
 
