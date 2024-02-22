@@ -153,19 +153,25 @@ The Microcontroller and ESP32 Subsystems work to meet the requirement that the p
 For more details, please see [Appendix E: Block Diagram and Verification Table](BlockDiagram.md)
 
 
-## Component Selections 
+## Component Selection 
 
 INSTRUCTIONS (DELETE LATER): INSTRUCTIONS (DELETE LATER): Include your component selection section / page.
 Highlight (and only discuss) the selected components, not the unselected alternatives.
 Be prepared to discuss your power budget
 
+For more details, please see [Appendix F: Component Selection](ComponentSelection.md)
+
 ## Microcontroller Selection
 INSTRUCTIONS (DELETE LATER): Include your microcontroller selection assignment.
 Be prepared to discuss your selected microcontroller, and the rationale for selecting it over the alternatives, based on your design requirements.
 
+For more details, please see [Appendix G: Microcontroller Selection](MicrocontrollerSelection.md)
+
 ## Hardware Proposal
 INSTRUCTIONS (DELETE LATER): Update your project report on your team website to include a high-quality, crisp (not blurry) rendering of your full project schematic(s). Do not use a screenshot.
 Be prepared to discuss your schematic and Bill of Materials
+
+For more details, please see [Appendix H: Microcontroller Selection](MicrocontrollerSelection.md)
 
 ## Software Proposal
 INSTRUCTIONS (DELETE LATER): Include your software proposal section / page, including a high-quality, crisp (not blurry) copy of your activity diagram(s) or state diagram(s), MCC configuration, and function declarations.
@@ -176,7 +182,7 @@ Figure #: Software Proposal
 
 For the software of this project, the team decided to set up the code in a way that after the system is initialized and interrupts are enabled, the program will check on the temperature of the area, using the respective sensor via I2C communication, and update the user on the current temperature. After that, if the temperature is above a certain margin, the microcontroller will send a signal to the motor via SPI for it to raise a flag to alert the user about the higher temperatures, this flag will stay up until the temperature has decreased to below the alert margin. Lastly, the humidity sensor will check the humidity of the area and send the information to the user via I2C.
 
-For more details, please see Appendix #: Software Proposal
+For more details, please see [Appendix I: SoftwareProposal](SoftwareProposal.md)
 
 ## [Appendix](Appendix.github.md)
 
