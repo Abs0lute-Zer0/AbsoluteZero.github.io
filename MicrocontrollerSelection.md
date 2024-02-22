@@ -39,7 +39,7 @@
 ## Advantages & Disadvantages
 | Category | PIC Option 1 | PIC Option 2 |PIC Option 3 |
 | ---------------------------------------- | -------- | -------- | -------- |
-| Overall Pros | -4 PWMs<br/>-16 Bit Chip<br/>-Big Size (1.0 cm x 1.0 cm)| -Handles high current on its pins (up to 16mA)<br/>-16 bit Chip| -Cheap ($<br/>-Easy to Program |
+| Overall Pros | -4 PWMs<br/>-16 Bit Chip<br/>-Big Size (1.0 cm x 1.0 cm)| -Handles high current on its pins (up to 16mA)<br/>-16 bit Chip| -Cheap ($1.62<br/>-Easy to Program |
 | Overall Cons | -Expensive programmer| -2 PWMs<br/>-Expensive programmer | -1 PWM<br/>-8-Bit Chip<br/>-Small Size (0.8 cm x 0.8 cm) |
 | Ranking | 2 | 3 | 1 |
 
