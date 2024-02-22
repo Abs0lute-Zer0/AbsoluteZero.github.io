@@ -39,7 +39,7 @@
 ## Advantages & Disadvantages
 | Category | PIC Option 1 | PIC Option 2 |PIC Option 3 |
 | ---------------------------------------- | -------- | -------- | -------- |
-| Overall Pros | -Lots of PWMs (4) <br/> -16 bit| -Handles high current on its pins (up to 16mA) -16 bit
+| Overall Pros | -Lots of PWMs (4)<br/>-16 bit| -Handles high current on its pins (up to 16mA) -16 bit
  |  |
 | Overall Cons | facebook-messenger<br/>skype| ? | ? |
 | Ranking | 2 | 3 | 1 |
