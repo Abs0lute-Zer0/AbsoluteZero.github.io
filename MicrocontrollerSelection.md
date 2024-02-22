@@ -20,7 +20,7 @@
 | ---------------------------------------- | -------- | -------- | -------- |
 | Part Number | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10 |
 | Link (URL) to the Product Page | ? | ? | [PIC18F27Q10](https://www.microchip.com/en-us/product/pic18f27q10#purchase-from-store) |
-| Links (URL) to Data Sheets | ? | ? | ? |
+| Links (URL) to Data Sheets | ? | ? | [PIC18F27Q10](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf) |
 | Links (URL) to Application Notes | ? | ? | ? |
 | Links (URL) to Code Examples | ? | ? | ? |
 | Links (URL) to External Resources | ? | ? | ? |
