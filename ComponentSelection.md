@@ -17,6 +17,6 @@
 ## Fuse Source
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
-| MFU0603FF01000P500 Fuse | -Handles up to 32V<br/>-Limits current to 1 A<br/>-Low Cost ($0.24)<br/>-Small (0602 Package) | -Expensive ($49.99)<br/>-Heavy<br/>-Large |
-| ERB-RE2R00V | -Cheap ($2.25)<br/>-Popular<br/>-Small | -Low Ah (0.8 Ah)<br/>-Non-Rechargeable |
-| 0215002.MXP | -High Ah (2.2 Ah)<br/>-Popular<br/>-Rechargeable-Cheap ($2.40) | -Large<br/>-Requires Charger |
+| MFU0603FF01000P500 Fuse | -Handles up to 32V<br/>-1 Amp Limiter A<br/>-Low Cost ($0.24)<br/>-Small (0603 Package) | -Expensive ($49.99)<br/>-Heavy<br/>-Large |
+| ERB-RE2R00V | -Handles up to 32V<br/>-2 Amp Limiter<br/>-Low Cost ($0.27)<br/>-Small (0603 Package) | -Low Ah (0.8 Ah)<br/>-Non-Rechargeable |
+| 0215002.MXP | -Handles up to 250V<br/>-2 Amp Limiter<br/>-Easy To Replace<br/>-Large | -Large<br/>-Requires Holder |
