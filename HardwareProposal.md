@@ -5,3 +5,5 @@
 ### “We’re Up to Snow Good”
 
 ### Raj Kodithyala, Jillian Brooke, Alex Gutierrez, Briana Wells
+
+# Full Project Schematic
