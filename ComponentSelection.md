@@ -9,4 +9,4 @@
 ## Power
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
-| BA-5800 Military Class Battery<br/>$49.99 each | 35 | 35 |
+| BA-5800 Military Class Battery | -Good capacity<br/>-Durable | -Expensive ($49.99)<br/>-Heavy<br/>-Large |
