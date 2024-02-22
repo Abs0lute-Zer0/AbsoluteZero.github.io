@@ -8,4 +8,11 @@
 
 ## [Appendix D: Presentation 1](Presentation1.md)
 
-## [Appendix E: Block Diagram and Verification Table](BlockDiagram.md)
+## [Appendix E: Component Selection](ComponentSelection.md)
+
+## [Appendix F: Microcontroller Selection](MicrocontrollerSelection.md)
+
+## [Appendix G: Hardware Proposal](HardwareProposal.md)
+
+## [Appendix H: Software Proposal](SoftwareProposal.md)
+
