@@ -45,4 +45,4 @@
 
 ## Final Selection
 ### Final Microcontroller Choice: PIC18F27Q10T-I/SO
-Rationale: We decided to choose the PIC24FJ32MC104 because it has enough SPI, I2C, ADC, and PWM ports. Furthermore, it is also the cheapest microcontroller out of the three, so we buy lots of extras. 
+*Rationale:* We decided to choose the PIC24FJ32MC104 because it has enough SPI, I2C, ADC, and PWM ports. Furthermore, it is also the cheapest microcontroller out of the three, so we buy lots of extras. 
