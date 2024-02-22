@@ -40,5 +40,6 @@
 | Category | PIC Option 1 | PIC Option 2 |PIC Option 3 |
 | ---------------------------------------- | -------- | -------- | -------- |
 | Overall Pros | -Lots of PWMs (4) -16 bit| PIC24HJ16GP304 | PIC18F27Q10T-I/SO |
-| Overall Cons | ? | ? | ? |
+| Overall Cons | -Expensive programmer 
+-1.0 cm x 1.0 cm| ? | ? |
 | Ranking | 2 | 3 | 1 |
