@@ -19,7 +19,7 @@
 | Microcontroller Considerations | PIC Option 1 | PIC Option 2 |PIC Option 3 |
 | ---------------------------------------- | -------- | -------- | -------- |
 | Part Number | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10 |
-| Link (URL) to the Product Page | ? | ? | ? |
+| Link (URL) to the Product Page | [PIC24HJ16GP304 Link]([https://www.amazon.com/s?k=temperature+humidity+monitor&crid=1BR3HZJTGF2C0&sprefix=temperature+humidi%2Caps%2C143&ref=nb_sb_ss_ts-doa-p_1_18 ](https://www.microchip.com/en-us/product/pic18f27q10#purchase-from-store)) | ? | ? |
 | Links (URL) to Data Sheets | ? | ? | ? |
 | Links (URL) to Application Notes | ? | ? | ? |
 | Links (URL) to Code Examples | ? | ? | ? |
