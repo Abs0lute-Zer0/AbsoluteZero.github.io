@@ -17,6 +17,16 @@
 **Choice: Option 3 (18650 Battery)**
 **Rationale:** Rechargeable with high amperage capable of delivering the appropriate voltage and current to all the components.
 
+## Voltage Regulator
+| **Solution** | **Pros** | **Cons** |
+| ---------------------------------------- | --------- | --------- |
+| NCP1532MUAATXG | -Outputs 3.3V<br/>-Adjustable Output voltage<br/>-Cheap ($1.52) | -Max input voltage is 5V<br/>-No exterior legs for easy soldering<br/>-No exterior legs for easy soldering |
+| TPS62745DSST | -Max input is 10V<br/>-Max output is 3.3V<br/>-Variable voltage output from 1.8 to 3.3V | -Expensive ($2.09)<br/>-No exterior legs for easy soldering |
+| - | - | - |
+
+**Choice: Option - (-)**
+**Rationale:**  -
+
 ## Fuse
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
@@ -56,3 +66,13 @@
 
 **Choice: Option 1 (TC74A0-3.3VCTTR)**
 **Rationale:**  Option one is the most affordable, which works the best with the limited budget that the team is working in. Additionally, this component is the same one that the team will have worked with in class.
+
+## Humidity Sensor
+| **Solution** | **Pros** | **Cons** |
+| ---------------------------------------- | --------- | --------- |
+| HDC3022DEJR | -I2C Compatible<br/>-Humidity operating range from 0 to 100%<br/>-Low input voltage required (5.5Vmax)<br/>-High Accuracy (+-0.5%) | -Expensive ($5.61)<br/>-No exterior legs for easy soldering |
+| HDC2080DMBR | -I2C Compatible<br/>-Humidity operating range from 0 to 100%<br/>-Low input voltage required (3.6Vmax) | -Expensive ($3.99)<br/>-No exterior legs for easy soldering |
+| HTU31DI.C31DRH/T | -I2C Compatible<br/>-Humidity operating range from 0 to 100%<br/>-Low input voltage required (5.5Vmax) | -Expensive ($3.73)<br/>-No exterior legs for easy soldering |
+
+**Choice: Option 3 (HTU31DI.C31DRH/T)**
+**Rationale:**  Option three is the cheapest and has the same functionality as the rest of the sensors.
