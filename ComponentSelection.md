@@ -94,3 +94,8 @@
 **Choice: Option 3 (HTU31DI.C31DRH/T)**
 
 **Rationale:**  Option three is the cheapest and has the same functionality as the rest of the sensors.
+
+# Power Budget
+
+
+
