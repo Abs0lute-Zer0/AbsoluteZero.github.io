@@ -133,4 +133,4 @@
 |  |  |   | **Battery Life** | **2.53** |  **hr**|
 
 ### Notes
-Each 18650 battery has a 3.7V output and 2.2 Ah. We will use four 18650 batteries in series to achieve a 14.8V output and maintain a 2.2Ah. 
+Each 18650 battery has a 3.7V output and 2.2 Ah. We will use four 18650 batteries in series to achieve a 14.8V output and maintain a 2.2Ah capacity. 
