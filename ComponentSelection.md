@@ -113,6 +113,7 @@
 |  | ­ |  |  | **Total Current Required** | **870.58** |  **mA**|
 |  | ­ |  |  |  |  |  |
 | 18650 Batteries | USE-18650 | 3.7V | 4 | 2200 | **2200** |  **mA**|
+|  |  |  |  | **Total Remaining Current** | **1329.42** |  **mA**|
 
 | **Component Name** | **Part Number** | **Supply** | **#** | **Absolute** | **Total** |**Unit** |
 | ------------------- | --------- | --------- |-------| --------- | --------- | --------- |
