@@ -18,8 +18,6 @@
 
 **Rationale:** Rechargeable with high amperage capable of delivering the appropriate voltage and current to all the components.
 
-
-
 ## Voltage Regulator
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
