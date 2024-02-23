@@ -111,3 +111,5 @@
 |  | ­ |  |  | **Subtotal** | **696.464** | **mA** |
 |  | ­ |  |  | **Safety Margin** | **25%** |  |
 |  | ­ |  |  | **Total Current Required** | **870.58** |  **mA**|
+|  | ­ |  |  |  |  |  |
+| Source | ­Four 18650 Batteries | A1604 | 12V | 1 | **2200** |  **mA**|
