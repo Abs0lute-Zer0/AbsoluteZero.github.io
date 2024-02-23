@@ -155,7 +155,7 @@ For more details, please see [Appendix E: Block Diagram and Verification Table](
 
 ## Component Selection 
 
-## Power Source
+### Power Source
 
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
