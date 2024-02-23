@@ -165,10 +165,14 @@ For more details, please see [Appendix F: Component Selection](ComponentSelectio
 
 ## Microcontroller Selection
 
-NOTE: I'VE UPDATED THE MICROCONTROLLER SELECTION DOCUMENT TO INCLUDE THE MICROCONTROLLER WE CHOOSE.
+| Design Considerations | PIC Option 1 |
+| ---------------------------------------------- | ----------- |
+| How many GPIO Pins? | 25 |
+| Built-in Analog to Digital Converter? How many? | Yes, 1 |
+| Built-in Hardware PWM? How many? | Yes, 2 |
+| Built-in I2C? SPI? How many? | Yes, 2 each |
+| Built-in UART? How many? | Yes, 2 |
 
-INSTRUCTIONS (DELETE LATER): Include your microcontroller selection assignment.
-Be prepared to discuss your selected microcontroller, and the rationale for selecting it over the alternatives, based on your design requirements.
 
 For more details, please see [Appendix G: Microcontroller Selection](MicrocontrollerSelection.md)
 
