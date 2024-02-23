@@ -132,11 +132,17 @@ This section showcases the first milestone of the project which depicts the init
 The full recording of the presentation can be accessed [here](https://youtu.be/PEDgt7GWlsU) or via the preview seen in [Appendix D: Presentation 1](Presentation1.md)
 
 ## Selected Design
-INSTRUCTIONS (DELETE LATER): Provide a figure/rendering of your product in its current form. Highlight features that satisfy user needs, with labels and arrows. You may update or re-work one of the images from design creativity, or start from scratch if you prefer.
+
+![Final Design Concept](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/a75c8028-ddcb-4adc-b548-a1dbaf6c942a)
+
+Figure 4: Selected Design
+
+The Selected design illustrates the desired outcome for this project. The design includes a wheel system with an integrated controller to allow for users to control the trajectory of the device. Additionally, the device is centered around the temperature sensor and the humidity sensor which is related to a built-in alert system to notify users of dangerous conditions. If, for example, the temperature sensor detects a value that is deemed dangerous, such as 100 degrees Fahrenheit, or 40 Degrees Celcius, the device will raise a flag to warn the user. (The image depicts a scenario where the device has detected dangerous conditions). This device will work to ensure user safety with up-to-date readings communicated over wifi via the ESP32. 
+
 
 ## Block Diagram
 
-![Block Diagram-314 drawio (5)](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/d1b2f173-2f3a-421c-a1c0-bcb2f0a3a0b2)
+![Block Diagram-314 drawio (6)](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/8d83a4cc-026c-4c6f-838a-c061de904e50)
 
 Figure 4: Block Diagram
 
