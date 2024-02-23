@@ -163,7 +163,6 @@ For more details, please see [Appendix E: Block Diagram and Verification Table](
 **Choice: Option 3 (18650 Battery)**
 
 **Rationale:** Rechargeable with high amperage capable of delivering the appropriate voltage and current to all the components.
-For more details, please see [Appendix F: Component Selection](ComponentSelection.md)
 
 ### Voltage Regulator
 | **Solution** | **Pros** | **Cons** |
