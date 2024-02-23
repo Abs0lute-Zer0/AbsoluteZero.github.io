@@ -5,7 +5,10 @@
 ### “We’re Up to Snow Good”
 
 #### Raj Kodithyala, Jillian Brooke, Alex Gutierrez, Briana Wells
-
+| Restated Customer Need (Explicit/Latent) | Meta Need | Ranking |
+| ---------------------------------------- | --------- | ------- |
+| Cost efficient | Functionality | 1 |
+| Accurate | Functionality | 2 |
 ## Preliminary Design Needs
 | Design Considerations | PIC Option 1 | PIC Option 2 |PIC Option 3 |
 | ---------------------------------------------- | ----------- | ----------- | ----------- |
