@@ -226,6 +226,46 @@ For more details, please see [Appendix E: Block Diagram and Verification Table](
 
 For more details, please see [Appendix F: Component Selection](ComponentSelection.md)
 
+# Power Budget
+
+### Components
+
+| **Component Name** | **Part Number** | **Supply** | **#** | **Absolute** | **Total** | **Units** |
+| ------------------- | --------- | --------- |-------| --------- | --------- | --------- |
+| Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
+| Motor | ROB-11696 | 3.3V | 1 | 110 | 110 | mA |
+| Motor Driver | IFX9201SGAUMA1 | 3.3V | 1 | 60 | 60 | mA |
+| Debug LEDs/Normal LEDs | XCMDK12D | 3.3V | 4 | 30 | 120 | mA |
+| Piezo Buzzer | COM-07950 | 3.3V | 1 | 35 | 35 | mA |
+| Humidity Sensor | 10142048-22 | 3.3V | 1 | 0.414 | 0.414 | mA |
+| Temperature Sensor | TC74A0 | 3.3V | 1 | 0.35 | 0.35 | mA |
+| OLED Screen | B085WCRS7C | 3.3V | 1 | 20.7 | 20.7 | mA |
+| ESP32 | ESP32­WROOM­32 | 3.3V | 1 | 150 | 150 | mA |
+|  | ­ |  |  | **Subtotal** | **696.464** | **mA** |
+|  | ­ |  |  | **Safety Margin** | **25%** |  |
+|  | ­ |  |  | **Total Current Required** | **870.58** |  **mA**|
+|  | ­ |  |  |  |  |  |
+| 18650 Batteries | USE-18650 | 3.7V | 4 | 2200 | **2200** |  **mA**|
+|  |  |  |  | **Total Remaining Current** | **1329.42** |  **mA**|
+
+### Current Calculations
+
+| **Power Source** | **Component Name** |**Part Number** | **Supply** | **Output** | **Absolute** | **Total** | **Units** |
+| ------------------- | --------- | --------- |-------| --------- | --------- | --------- | --------- |
+| Power Source Selection | Four 18650 Batteries | USE-18650 | +14.8V | +14.8V | 2200 | 2200 | mA |
+|  Voltage Regulator | 3.3V Regulator | LM2575D2T | +14.8V | 1 | 870.58 | 870.58 | mA |
+|  |  |  |  |   | **Total Remaining Current** | **1329.42** |  **mA**|
+
+### Estimated Battery Life
+
+| **Component Name** |**Part Number** | **Supply** | **Capacity** | **Required** | **Units** |
+| ------------------- | --------- | --------- |-------| --------- | --------- |
+| 18650 Batteries | USE-18650 | +14.8V | 2200 | 870.58 | mA |
+|  |  |   | **Battery Life** | **2.53** |  **hr**|
+
+### Notes
+Each 18650 battery has a 3.7V output and 2.2 Ah. We will use four 18650 batteries in series to achieve a 14.8V output and maintain a 2.2Ah capacity. 
+
 ## Microcontroller Selection
 
 | Design Considerations | PIC18F27Q10 |
