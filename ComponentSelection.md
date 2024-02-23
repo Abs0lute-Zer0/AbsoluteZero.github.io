@@ -112,7 +112,7 @@
 |  | ­ |  |  | **Safety Margin** | **25%** |  |
 |  | ­ |  |  | **Total Current Required** | **870.58** |  **mA**|
 |  | ­ |  |  |  |  |  |
-| ­Four 18650 Batteries | USE-18650 | 14.8V | 1 | **2200** |  **mA**|
+| 18650 Batteries | USE-18650 | 3.7V | 4 | 1 | **2200** |  **mA**|
 
 | **Component Name** | **Part Number** | **Supply** | **#** | **Absolute** | **Total** |**Unit** |
 | ------------------- | --------- | --------- |-------| --------- | --------- | --------- |
