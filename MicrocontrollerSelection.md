@@ -8,7 +8,9 @@
 
 ## Preliminary Design Needs
 | Design Considerations | PIC Option 1 | PIC Option 2 |PIC Option 3 |
+
 | ---------------------------------------------- | ----------- | ----------- | ----------- |
+
 | How many GPIO Pins? | 35 | 35 | 25 |
 | Built-in Analog to Digital Converter? How many? | Yes, 1 | Yes, 1 | Yes, 1 |
 | Built-in Hardware PWM? How many? | Yes, 4 | Yes, 2 | Yes, 2 |
