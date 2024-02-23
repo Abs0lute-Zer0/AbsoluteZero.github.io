@@ -99,6 +99,15 @@
 
 | **Component Name** | **Part Number** | **Supply** | **#** | **Absolute** | **Total** |**Unit** |
 | ------------------- | --------- | --------- |-------| --------- | --------- | --------- |
-| ------------------- | --------- | --------- |-------| --------- | --------- | --------- |
+| Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
+| Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
+| Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
+| Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
+| Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
+| Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
+| Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
+| Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
+| Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
+
 
 
