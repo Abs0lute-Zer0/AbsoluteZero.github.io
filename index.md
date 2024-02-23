@@ -155,12 +155,15 @@ For more details, please see [Appendix E: Block Diagram and Verification Table](
 
 ## Component Selection 
 
-IF YOU ARE DOING THIS SECTION YOU MUST ALSO DO/INCLUDE THE POWER BUDGET.
+## Power Source
 
-INSTRUCTIONS (DELETE LATER): INSTRUCTIONS (DELETE LATER): Include your component selection section/page.
-Highlight (and only discuss) the selected components, not the unselected alternatives.
-Be prepared to discuss your power budget
+| **Solution** | **Pros** | **Cons** |
+| ---------------------------------------- | --------- | --------- |
+| 18650 Battery | -High Ah (2.2 Ah)<br/>-Popular<br/>-Rechargeable-Cheap ($2.40) | -Large<br/>-Requires Charger |
 
+**Choice: Option 3 (18650 Battery)**
+
+**Rationale:** Rechargeable with high amperage capable of delivering the appropriate voltage and current to all the components.
 For more details, please see [Appendix F: Component Selection](ComponentSelection.md)
 
 ## Microcontroller Selection
