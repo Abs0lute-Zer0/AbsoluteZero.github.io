@@ -219,6 +219,8 @@ For more details, please see [Appendix F: Component Selection](ComponentSelectio
 
 **Rationale:**  Option three is the cheapest and has the same functionality as the rest of the sensors.
 
+For more details, please see [Appendix F: Component Selection](ComponentSelection.md)
+
 ## Microcontroller Selection
 
 | Design Considerations | PIC18F27Q10 |
