@@ -108,6 +108,6 @@
 | Temperature Sensor | TC74A0 | 3.3V | 1 | 0.35 | 0.35 | mA |
 | OLED Screen | B085WCRS7C | 3.3V | 1 | 20.7 | 20.7 | mA |
 | ESP32 | ESP32­WROOM­32 | 3.3V | 1 | 150 | 150 | mA |
-
+|  | ­ |  |  | **Subtotal** | **696.464** | **mA** |
 
 
