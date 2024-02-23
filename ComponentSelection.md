@@ -109,5 +109,5 @@
 | OLED Screen | B085WCRS7C | 3.3V | 1 | 20.7 | 20.7 | mA |
 | ESP32 | ESP32­WROOM­32 | 3.3V | 1 | 150 | 150 | mA |
 |  | ­ |  |  | **Subtotal** | **696.464** | **mA** |
-
-
+|  | ­ |  |  | **Safety Margin** | **25%** |  |
+|  | ­ |  |  | **Total Current Required** | **870.58** |  **mA**|
