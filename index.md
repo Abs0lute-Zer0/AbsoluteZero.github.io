@@ -165,13 +165,32 @@ For more details, please see [Appendix F: Component Selection](ComponentSelectio
 
 ## Microcontroller Selection
 
-| Design Considerations | PIC Option 1 |
+| Design Considerations | PIC18F27Q10 |
 | ---------------------------------------------- | ----------- |
 | How many GPIO Pins? | 25 |
 | Built-in Analog to Digital Converter? How many? | Yes, 1 |
 | Built-in Hardware PWM? How many? | Yes, 2 |
 | Built-in I2C? SPI? How many? | Yes, 2 each |
 | Built-in UART? How many? | Yes, 2 |
+
+| Microcontroller Considerations | PIC18F27Q10 |
+| ---------------------------------------- | -------- |
+| Link (URL) to the Product Page | [PIC18F27Q10](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf) |
+| Links (URL) to Data Sheets | [PIC18F27Q10](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf) |
+| Links (URL) to Application Notes | [PIC18F27Q10](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf) |
+| Links (URL) to Code Examples | [PIC18F27Q10](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf) |
+| Links (URL) to External Resources | [PIC18F27Q10](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf) |
+| Production Unit Cost | $1.62 |
+| Supply Voltage Range | 1.8 V - 5.5 V |
+| Absolute Maximum Current for entire IC | 16 mA or 12 mA |
+| Maximum GPIO Pin Current (Source/Sink) | 10 mA or 16 mA |
+| 8-bit or 16-bit Architecture | 8-bit |
+| Available IC Packages / Footprints | Surface Mount |
+| Supports External Interrupts? | Yes |
+| In-System Programming Capability and Type | Yes |
+| Programming Hardware, Cost, and URL | MPLAB® PICkit™ 5 In-Circuit Debugger $94.99 |
+| Works with MPLAB® X Integrated Development Environment (IDE)? | Yes |
+| Works with Microchip Code Configurator? | Yes |
 
 
 For more details, please see [Appendix G: Microcontroller Selection](MicrocontrollerSelection.md)
