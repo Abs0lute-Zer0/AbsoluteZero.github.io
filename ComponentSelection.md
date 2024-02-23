@@ -97,7 +97,7 @@
 
 # Power Budget
 
-| **Component Name** | **Part Number** | **Supply** | **#** | **Absolute** | **Total** |**Unit** |
+| **Component Name** | **Part Number** | **Supply** | **#** | **Absolute** | **Total** | **Unit** |
 | ------------------- | --------- | --------- |-------| --------- | --------- | --------- |
 | Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
 | Motor | ROB-11696 | 3.3V | 1 | 110 | 110 | mA |
@@ -115,5 +115,8 @@
 | 18650 Batteries | USE-18650 | 3.7V | 4 | 2200 | **2200** |  **mA**|
 |  |  |  |  | **Total Remaining Current** | **1329.42** |  **mA**|
 
-| **Component Name** | **Part Number** | **Supply** | **#** | **Absolute** | **Total** |**Unit** |
-| ------------------- | --------- | --------- |-------| --------- | --------- | --------- |
+| **Power Source** | **Component Name** |**Part Number** | **Supply** | **Output** | **Absolute** | **Total** | **Unit** |
+| ------------------- | --------- | --------- |-------| --------- | --------- | --------- | --------- |
+| Power Source Selection | Four 18650 Batteries | USE-18650 | +14.8V | +14.8V | 2200 | 2200 | mA |
+|  Voltage Regulator | 3.3V Regulator | LM2575D2T | +14.8V | 1 | 870.58 | 870.58 | mA |
+|  |  |  |  |   | **Total Remaining Current** | **1329.42** |  **mA**|
