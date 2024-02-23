@@ -5,11 +5,10 @@
 ### “We’re Up to Snow Good”
 
 #### Raj Kodithyala, Jillian Brooke, Alex Gutierrez, Briana Wells
-| Restated Customer Need (Explicit/Latent) | Meta Need | Ranking |
-| ---------------------------------------- | --------- | ------- |
-| Cost efficient | Functionality | 1 |
-| Accurate | Functionality | 2 |
+
+
 ## Preliminary Design Needs
+
 | Design Considerations | PIC Option 1 | PIC Option 2 |PIC Option 3 |
 | ---------------------------------------------- | ----------- | ----------- | ----------- |
 | How many GPIO Pins? | 35 | 35 | 25 |
@@ -19,6 +18,7 @@
 | Built-in UART? How many? | Yes, 1 | Yes, 1 | Yes, 2 |
 
 ## Selection Table
+
 | Microcontroller Considerations | PIC Option 1 | PIC Option 2 |PIC Option 3 |
 | ---------------------------------------- | -------- | -------- | -------- |
 | Part Number | PIC24FJ32MC104 | PIC24HJ16GP304 | PIC18F27Q10 |
@@ -40,6 +40,7 @@
 | Works with Microchip Code Configurator? | Yes | Yes | Yes |
 
 ## Advantages & Disadvantages
+
 | Category | PIC Option 1 | PIC Option 2 |PIC Option 3 |
 | ---------------------------------------- | -------- | -------- | -------- |
 | Overall Pros | -4 PWMs<br/>-16 Bit Chip<br/>-Big Size (1.0 cm x 1.0 cm)| -Handles high current on its pins (up to 16mA)<br/>-16 bit Chip| -Cheap ($1.62<br/>-Easy to Program |
