@@ -260,8 +260,6 @@ For more details, please see [Appendix G: Microcontroller Selection](Microcontro
 For more details, please see [Appendix H: Hardware Proposal](MicrocontrollerSelection.md)
 
 ## Software Proposal
-INSTRUCTIONS (DELETE LATER): Include your software proposal section/page, including a high-quality, crisp (not blurry) copy of your activity diagram(s) or state diagram(s), MCC configuration, and function declarations.
-Be prepared to discuss your UML Diagram
 
 ![Team304_SoftwareProposal](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/135275139/08354b56-f796-4863-a2f2-b58312be190e)
 Figure #: Software Proposal
