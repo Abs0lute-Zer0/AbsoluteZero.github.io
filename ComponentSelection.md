@@ -100,14 +100,14 @@
 | **Component Name** | **Part Number** | **Supply** | **#** | **Absolute** | **Total** |**Unit** |
 | ------------------- | --------- | --------- |-------| --------- | --------- | --------- |
 | Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
-| Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
-| Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
-| Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
-| Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
-| Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
-| Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
-| Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
-| Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
+| Motor | ROB-11696 | 3.3V | 1 | 110 | 110 | mA |
+| Motor Driver | IFX9201SGAUMA1 | 3.3V | 1 | 60 | 60 | mA |
+| Debug LEDs/Normal LEDs | XCMDK12D | 3.3V | 4 | 30 | 120 | mA |
+| Piezo Buzzer | COM-07950 | 3.3V | 1 | 35 | 35 | mA |
+| Humidity Sensor | 10142048-22 | 3.3V | 1 | 0.414 | 0.414 | mA |
+| Temperature Sensor | TC74A0 | 3.3V | 1 | 0.35 | 0.35 | mA |
+| OLED Screen | B085WCRS7C | 3.3V | 1 | 20.7 | 20.7 | mA |
+| ESP32 | ESP32­WROOM­32 | 3.3V | 1 | 150 | 150 | mA |
 
 
 
