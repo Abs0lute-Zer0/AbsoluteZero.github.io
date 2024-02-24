@@ -166,7 +166,7 @@ Table 2: Power Source Selected
 
 
 | **Solution** | **Pros** | **Cons** |
-| ---------------------------------------- | --------- | --------- |
+| ------------ | -------- | -------- |
 | 18650 Battery | -High Ah (2.2 Ah)<br/>-Popular<br/>-Rechargeable-Cheap ($2.40) | -Large<br/>-Requires Charger |
 
 **Choice: Option 3 (18650 Battery)**
@@ -178,7 +178,7 @@ Table 3: Voltage Regulator Selected
 
 
 | **Solution** | **Pros** | **Cons** |
-| ---------------------------------------- | --------- | --------- |
+| ------------ | -------- | -------- |
 | LM2575D2T | -Outputs 3.3V<br/>-Adjustable Output voltage<br/>-High Input Voltage Range (up to 40V)<br/>-Easy to use | -Expensive ($2.39)<br/> |
 
 **Choice: Option 3 (LM2575D2T)**
@@ -190,7 +190,7 @@ Table 4: Fuse Selected
 
 
 | **Solution** | **Pros** | **Cons** |
-| ---------------------------------------- | --------- | --------- |
+| ------------ | -------- | -------- |
 | 0215002.MXP Fuse| -Handles up to 250V<br/>-2 Amp Limiter<br/>-Easy To Replace<br/>-Large | -Large<br/>-Requires Holder<br/>-Expensive |
 
 **Choice: Option 3**
@@ -202,7 +202,7 @@ Table 5: DC Motor Selected
 
 
 | **Solution** | **Pros** | **Cons** |
-| ---------------------------------------- | --------- | --------- |
+| ------------ | -------- | -------- |
 | ROB-12429 Small Gearmotor | -Light (17.69 g)<br/>-Includes a gearbox (reduction ratio: 50)<br/>-Low Cost ($13.95)<br/>-Small (26 x 12 x 10mm)<br/>-Easy to attach to shaft (dent in the shaft) | -Small shaft length<br/>-Small mounting holes<br/>-Import Tariff |
 
 **Choice: Option 1**
@@ -214,7 +214,7 @@ Table 6: Motor Driver Selected
 
 
 | **Solution** | **Pros** | **Cons** |
-| ---------------------------------------- | --------- | --------- |
+| ------------ | -------- | -------- |
 | IFX9201SGAUMA1 | -Cheap ($4.00)<br/>-High voltages (40 V)<br/>-Dual Motor Driver (2 half h-bridges)<br/>-Small (7.8 mm x 10mm)<br/>-Easy to use | -Lots of extra pins (5/12 are used) |
 
 **Choice: Option 1 (IFX9201SGAUMA1)**
@@ -226,7 +226,7 @@ Table 7: Temperature Sensor Selected
 
 
 | **Solution** | **Pros** | **Cons** |
-| ---------------------------------------- | --------- | --------- |
+| ------------ | -------- | -------- |
 | TC74A0-3.3VCTTR | -3.3 Operating Voltage<br/>-Digital Signals<br/>-Cheap ($1.15)<br/>-Easy to use | -Tiny (1.9 x 1.2 mm) |
 
 **Choice: Option 1 (TC74A0-3.3VCTTR)**
@@ -238,7 +238,7 @@ Table 8: Humidity Sensor Selected
 
 
 | **Solution** | **Pros** | **Cons** |
-| ---------------------------------------- | --------- | --------- |
+| ------------ | -------- | -------- |
 | HTU31DI.C31DRH/T | -I2C Compatible<br/>-Humidity operating range from 0 to 100%<br/>-Low input voltage required (5.5Vmax) | -Expensive ($3.73)<br/>-No exterior legs for easy soldering |
 
 **Choice: Option 3 (HTU31DI.C31DRH/T)**
@@ -254,7 +254,7 @@ Table 9: Power Budget of the Components.
 
 
 | **Component Name** | **Part Number** | **Supply** | **#** | **Absolute** | **Total** | **Units** |
-| ------------------- | --------- | --------- |-------| --------- | --------- | --------- |
+| ------------------ | --------------- | ---------- |-------| ------------ | --------- | --------- |
 | Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
 | Motor | ROB-11696 | 3.3V | 1 | 110 | 110 | mA |
 | Motor Driver | IFX9201SGAUMA1 | 3.3V | 1 | 60 | 60 | mA |
@@ -276,7 +276,7 @@ Table 10: Current Calculations.
 
 
 | **Power Source** | **Component Name** |**Part Number** | **Supply** | **Output** | **Absolute** | **Total** | **Units** |
-| ------------------- | --------- | --------- |-------| --------- | --------- | --------- | --------- |
+| ---------------- | ------------------ | -------------- |------------| ---------- | ------------ | --------- | --------- |
 | Power Source Selection | Four 18650 Batteries | USE-18650 | +14.8V | +14.8V | 2200 | 2200 | mA |
 |  Voltage Regulator | 3.3V Regulator | LM2575D2T | +14.8V | 1 | 870.58 | 870.58 | mA |
 |  |  |  |  |   | **Total Remaining Current** | **1329.42** |  **mA**|
@@ -286,7 +286,7 @@ Table 11: Estimated Battery Life.
 
 
 | **Component Name** |**Part Number** | **Supply** | **Capacity** | **Required** | **Units** |
-| ------------------- | --------- | --------- |-------| --------- | --------- |
+| ------------------ | -------------- | ---------- | ------------ | ------------ | --------- |
 | 18650 Batteries | USE-18650 | +14.8V | 2200 | 870.58 | mA |
 |  |  |   | **Battery Life** | **2.53** |  **hr**|
 
@@ -298,7 +298,7 @@ Table 12: Requirements for the project.
 
 
 | Design Considerations | PIC18F27Q10 |
-| ---------------------------------------------- | ----------- |
+| --------------------- | ----------- |
 | How many GPIO Pins? | 25 |
 | Built-in Analog to Digital Converter? How many? | Yes, 1 |
 | Built-in Hardware PWM? How many? | Yes, 2 |
@@ -309,7 +309,7 @@ Table 13: Microcontroller Considerations.
 
 
 | Microcontroller Considerations | PIC18F27Q10 |
-| ---------------------------------------- | -------- |
+| ------------------------------ | ----------- |
 | Link (URL) to the Product Page | [PIC18F27Q10](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf) |
 | Links (URL) to Data Sheets | [PIC18F27Q10](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf) |
 | Links (URL) to Application Notes | [PIC18F27Q10](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf) |
