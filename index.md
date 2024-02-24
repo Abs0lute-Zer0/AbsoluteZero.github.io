@@ -164,6 +164,7 @@ For more details, please see [Appendix E: Block Diagram and Verification Table](
 
 Table 2: Power Source Selected
 
+
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
 | 18650 Battery | -High Ah (2.2 Ah)<br/>-Popular<br/>-Rechargeable-Cheap ($2.40) | -Large<br/>-Requires Charger |
@@ -174,6 +175,8 @@ Table 2: Power Source Selected
 
 ### Voltage Regulator
 Table 3: Voltage Regulator Selected
+
+
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
 | LM2575D2T | -Outputs 3.3V<br/>-Adjustable Output voltage<br/>-High Input Voltage Range (up to 40V)<br/>-Easy to use | -Expensive ($2.39)<br/> |
@@ -184,6 +187,7 @@ Table 3: Voltage Regulator Selected
 
 ### Fuse
 Table 4: Fuse Selected
+
 
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
@@ -196,6 +200,7 @@ Table 4: Fuse Selected
 ### DC Motor
 Table 5: DC Motor Selected
 
+
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
 | ROB-12429 Small Gearmotor | -Light (17.69 g)<br/>-Includes a gearbox (reduction ratio: 50)<br/>-Low Cost ($13.95)<br/>-Small (26 x 12 x 10mm)<br/>-Easy to attach to shaft (dent in the shaft) | -Small shaft length<br/>-Small mounting holes<br/>-Import Tariff |
@@ -206,6 +211,7 @@ Table 5: DC Motor Selected
 
 ### Motor Driver
 Table 6: Motor Driver Selected
+
 
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
@@ -218,6 +224,7 @@ Table 6: Motor Driver Selected
 ### Temperature Sensor
 Table 7: Temperature Sensor Selected
 
+
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
 | TC74A0-3.3VCTTR | -3.3 Operating Voltage<br/>-Digital Signals<br/>-Cheap ($1.15)<br/>-Easy to use | -Tiny (1.9 x 1.2 mm) |
@@ -228,6 +235,7 @@ Table 7: Temperature Sensor Selected
 
 ### Humidity Sensor
 Table 8: Humidity Sensor Selected
+
 
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
@@ -243,6 +251,7 @@ For more details, please see [Appendix F: Component Selection](ComponentSelectio
 
 ### Components
 Table 9: Power Budget of the Components.
+
 
 | **Component Name** | **Part Number** | **Supply** | **#** | **Absolute** | **Total** | **Units** |
 | ------------------- | --------- | --------- |-------| --------- | --------- | --------- |
@@ -265,6 +274,7 @@ Table 9: Power Budget of the Components.
 ### Current Calculations
 Table 10: Current Calculations.
 
+
 | **Power Source** | **Component Name** |**Part Number** | **Supply** | **Output** | **Absolute** | **Total** | **Units** |
 | ------------------- | --------- | --------- |-------| --------- | --------- | --------- | --------- |
 | Power Source Selection | Four 18650 Batteries | USE-18650 | +14.8V | +14.8V | 2200 | 2200 | mA |
@@ -273,6 +283,7 @@ Table 10: Current Calculations.
 
 ### Estimated Battery Life
 Table 11: Estimated Battery Life.
+
 
 | **Component Name** |**Part Number** | **Supply** | **Capacity** | **Required** | **Units** |
 | ------------------- | --------- | --------- |-------| --------- | --------- |
@@ -285,6 +296,7 @@ Each 18650 battery has a 3.7V output and 2.2 Ah. We will use four 18650 batterie
 ## Microcontroller Selection
 Table 12: Requirements for the project.
 
+
 | Design Considerations | PIC18F27Q10 |
 | ---------------------------------------------- | ----------- |
 | How many GPIO Pins? | 25 |
@@ -294,6 +306,7 @@ Table 12: Requirements for the project.
 | Built-in UART? How many? | Yes, 2 |
 
 Table 13: Microcontroller Considerations.
+
 
 | Microcontroller Considerations | PIC18F27Q10 |
 | ---------------------------------------- | -------- |
