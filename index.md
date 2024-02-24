@@ -144,7 +144,7 @@ The Selected design illustrates the desired outcome for this project. The design
 
 ![Block Diagram-314 drawio (6)](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/8d83a4cc-026c-4c6f-838a-c061de904e50)
 
-Figure 4: Block Diagram
+Figure 5: Block Diagram
 
 The requirements for this project were a key consideration for the team when it came time to designing subsystems and grouping them into appropriate groupings. The requirements for this project were that the system must include at least two separate serial sensors, which could include the following: temperature, humidity, atmospheric pressure, wind speed, or other modalities with instructors' approval. Additionally, the project must include at least one motor controlled by a motor controlled via I2C or SPI.
 
@@ -162,6 +162,7 @@ For more details, please see [Appendix E: Block Diagram and Verification Table](
 
 ### Power Source
 
+Table 2: Power Source Selected
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
 | 18650 Battery | -High Ah (2.2 Ah)<br/>-Popular<br/>-Rechargeable-Cheap ($2.40) | -Large<br/>-Requires Charger |
@@ -171,6 +172,7 @@ For more details, please see [Appendix E: Block Diagram and Verification Table](
 **Rationale:** Rechargeable with high amperage capable of delivering the appropriate voltage and current to all the components.
 
 ### Voltage Regulator
+Table 3: Voltage Regulator Selected
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
 | LM2575D2T | -Outputs 3.3V<br/>-Adjustable Output voltage<br/>-High Input Voltage Range (up to 40V)<br/>-Easy to use | -Expensive ($2.39)<br/> |
@@ -180,6 +182,7 @@ For more details, please see [Appendix E: Block Diagram and Verification Table](
 **Rationale:**  - Voltage regulator handles high voltage inputs while outputting the required 3.3V. It is the most expensive of the group but the easiest to solder and integrate.
 
 ### Fuse
+Table 4: Fuse Selected
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
 | 0215002.MXP Fuse| -Handles up to 250V<br/>-2 Amp Limiter<br/>-Easy To Replace<br/>-Large | -Large<br/>-Requires Holder<br/>-Expensive |
