@@ -192,6 +192,7 @@ Table 4: Fuse Selected
 **Rationale:** This option is a reliable component with all the capabilities the team is looking for in terms of current limiting and circuit protection. While more expensive than the non-holder style fuses, the ability to quickly and easily replace this component is worth the extra expense in the eyes of the team.
 
 ### DC Motor
+Table 5: DC Motor Selected
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
 | ROB-12429 Small Gearmotor | -Light (17.69 g)<br/>-Includes a gearbox (reduction ratio: 50)<br/>-Low Cost ($13.95)<br/>-Small (26 x 12 x 10mm)<br/>-Easy to attach to shaft (dent in the shaft) | -Small shaft length<br/>-Small mounting holes<br/>-Import Tariff |
@@ -201,6 +202,7 @@ Table 4: Fuse Selected
 **Rationale:** We decided to go with the ROB-12429 DC Motor because it had a healthy balance between its size, weight, cost, and adaptability. It wasn’t too pricey for a quality DC motor, while still being small and lightweight. Its shaft design makes it easy to attach 3D-printed wheels and other 3D-printed components.
 
 ### Motor Driver
+Table 6: Motor Driver Selected
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
 | IFX9201SGAUMA1 | -Cheap ($4.00)<br/>-High voltages (40 V)<br/>-Dual Motor Driver (2 half h-bridges)<br/>-Small (7.8 mm x 10mm)<br/>-Easy to use | -Lots of extra pins (5/12 are used) |
@@ -210,6 +212,7 @@ Table 4: Fuse Selected
 **Rationale:** We chose this dual-motor driver because of its cost-effectiveness and ease of use. Utilizing a dual half-H-bridge motor driver, this component lets us drive two motors with ease while not taking up a lot of PCB space. 
 
 ### Temperature Sensor
+Table 7: Temperature Sensor Selected
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
 | TC74A0-3.3VCTTR | -3.3 Operating Voltage<br/>-Digital Signals<br/>-Cheap ($1.15)<br/>-Easy to use | -Tiny (1.9 x 1.2 mm) |
@@ -219,6 +222,7 @@ Table 4: Fuse Selected
 **Rationale:**  Option one is the most affordable, which works the best with the limited budget that the team is working in. Additionally, this component is the same one that the team will have worked with in class.
 
 ### Humidity Sensor
+Table 8: Humidity Sensor Selected
 | **Solution** | **Pros** | **Cons** |
 | ---------------------------------------- | --------- | --------- |
 | HTU31DI.C31DRH/T | -I2C Compatible<br/>-Humidity operating range from 0 to 100%<br/>-Low input voltage required (5.5Vmax) | -Expensive ($3.73)<br/>-No exterior legs for easy soldering |
@@ -232,7 +236,7 @@ For more details, please see [Appendix F: Component Selection](ComponentSelectio
 # Power Budget
 
 ### Components
-
+Table 9: Power Budget of the Components.
 | **Component Name** | **Part Number** | **Supply** | **#** | **Absolute** | **Total** | **Units** |
 | ------------------- | --------- | --------- |-------| --------- | --------- | --------- |
 | Microcontroller | PIC18F27Q10 | 3.3V | 1 | 200 | 200 | mA |
@@ -252,7 +256,7 @@ For more details, please see [Appendix F: Component Selection](ComponentSelectio
 |  |  |  |  | **Total Remaining Current** | **1329.42** |  **mA**|
 
 ### Current Calculations
-
+Table 10: Current Calculations.
 | **Power Source** | **Component Name** |**Part Number** | **Supply** | **Output** | **Absolute** | **Total** | **Units** |
 | ------------------- | --------- | --------- |-------| --------- | --------- | --------- | --------- |
 | Power Source Selection | Four 18650 Batteries | USE-18650 | +14.8V | +14.8V | 2200 | 2200 | mA |
@@ -260,7 +264,7 @@ For more details, please see [Appendix F: Component Selection](ComponentSelectio
 |  |  |  |  |   | **Total Remaining Current** | **1329.42** |  **mA**|
 
 ### Estimated Battery Life
-
+Table 11: Estimated Battery Life.
 | **Component Name** |**Part Number** | **Supply** | **Capacity** | **Required** | **Units** |
 | ------------------- | --------- | --------- |-------| --------- | --------- |
 | 18650 Batteries | USE-18650 | +14.8V | 2200 | 870.58 | mA |
@@ -270,7 +274,7 @@ For more details, please see [Appendix F: Component Selection](ComponentSelectio
 Each 18650 battery has a 3.7V output and 2.2 Ah. We will use four 18650 batteries in series to achieve a 14.8V output and maintain a 2.2Ah capacity. 
 
 ## Microcontroller Selection
-
+Table 12: Requirements for the project.
 | Design Considerations | PIC18F27Q10 |
 | ---------------------------------------------- | ----------- |
 | How many GPIO Pins? | 25 |
@@ -279,6 +283,7 @@ Each 18650 battery has a 3.7V output and 2.2 Ah. We will use four 18650 batterie
 | Built-in I2C? SPI? How many? | Yes, 2 each |
 | Built-in UART? How many? | Yes, 2 |
 
+Table 13: Microcontroller Considerations.
 | Microcontroller Considerations | PIC18F27Q10 |
 | ---------------------------------------- | -------- |
 | Link (URL) to the Product Page | [PIC18F27Q10](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18F27-47Q10-Data-Sheet-40002043E.pdf) |
@@ -304,6 +309,8 @@ For more details, please see [Appendix G: Microcontroller Selection](Microcontro
 ## Hardware Proposal
 ![HARDWARE PROPOSAL](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/135275139/9449700c-8677-4f14-a756-101c4b9b46aa)
 
+Figure 6: Hardware Proposal
+
 ### [Team Bill Of Materials](https://docs.google.com/spreadsheets/d/1tEgSocMg7p1WsBFgXyOm4MPM_7w9kUdD/edit?usp=sharing&ouid=118237344388299811111&rtpof=true&sd=true) 
 
 For more details, please see [Appendix H: Hardware Proposal](MicrocontrollerSelection.md)
@@ -311,7 +318,7 @@ For more details, please see [Appendix H: Hardware Proposal](MicrocontrollerSele
 ## Software Proposal
 
 ![Team304_SoftwareProposal](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/135275139/08354b56-f796-4863-a2f2-b58312be190e)
-Figure #: Software Proposal
+Figure 7: Software Proposal
 
 For the software of this project, the team decided to set up the code in a way that after the system is initialized and interrupts are enabled, the program will check on the temperature of the area, using the respective sensor via I2C communication, and update the user on the current temperature. After that, if the temperature is above a certain margin, the microcontroller will send a signal to the motor via SPI for it to raise a flag to alert the user about the higher temperatures, this flag will stay up until the temperature has decreased to below the alert margin. Lastly, the humidity sensor will check the humidity of the area and send the information to the user via I2C.
 
