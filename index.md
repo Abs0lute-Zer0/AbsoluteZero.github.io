@@ -168,20 +168,16 @@ Table 2: Power Source Selected
 | **Solution** | **Pros** | **Cons** |
 | ------------ | -------- | -------- |
 | 18650 Battery | -High Ah (2.2 Ah)<br/>-Popular<br/>-Rechargeable-Cheap ($2.40) | -Large<br/>-Requires Charger |
-
-**Choice: Option 3 (18650 Battery)**
+![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156540341/3ea3bab3-692d-44f9-86a0-9d2346b991f7)
 
 **Rationale:** Rechargeable with high amperage capable of delivering the appropriate voltage and current to all the components.
 
 ### Voltage Regulator
 Table 3: Voltage Regulator Selected
 
-
 | **Solution** | **Pros** | **Cons** |
 | ------------ | -------- | -------- |
 | LM2575D2T | -Outputs 3.3V<br/>-Adjustable Output voltage<br/>-High Input Voltage Range (up to 40V)<br/>-Easy to use | -Expensive ($2.39)<br/> |
-
-**Choice: Option 3 (LM2575D2T)**
 
 **Rationale:**  - Voltage regulator handles high voltage inputs while outputting the required 3.3V. It is the most expensive of the group but the easiest to solder and integrate.
 
@@ -193,7 +189,6 @@ Table 4: Fuse Selected
 | ------------ | -------- | -------- |
 | 0215002.MXP Fuse| -Handles up to 250V<br/>-2 Amp Limiter<br/>-Easy To Replace<br/>-Large | -Large<br/>-Requires Holder<br/>-Expensive |
 
-**Choice: Option 3**
 
 **Rationale:** This option is a reliable component with all the capabilities the team is looking for in terms of current limiting and circuit protection. While more expensive than the non-holder style fuses, the ability to quickly and easily replace this component is worth the extra expense in the eyes of the team.
 
@@ -205,8 +200,6 @@ Table 5: DC Motor Selected
 | ------------ | -------- | -------- |
 | ROB-12429 Small Gearmotor | -Light (17.69 g)<br/>-Includes a gearbox (reduction ratio: 50)<br/>-Low Cost ($13.95)<br/>-Small (26 x 12 x 10mm)<br/>-Easy to attach to shaft (dent in the shaft) | -Small shaft length<br/>-Small mounting holes<br/>-Import Tariff |
 
-**Choice: Option 1**
-
 **Rationale:** We decided to go with the ROB-12429 DC Motor because it had a healthy balance between its size, weight, cost, and adaptability. It wasn’t too pricey for a quality DC motor, while still being small and lightweight. Its shaft design makes it easy to attach 3D-printed wheels and other 3D-printed components.
 
 ### Motor Driver
@@ -217,31 +210,24 @@ Table 6: Motor Driver Selected
 | ------------ | -------- | -------- |
 | IFX9201SGAUMA1 | -Cheap ($4.00)<br/>-High voltages (40 V)<br/>-Dual Motor Driver (2 half h-bridges)<br/>-Small (7.8 mm x 10mm)<br/>-Easy to use | -Lots of extra pins (5/12 are used) |
 
-**Choice: Option 1 (IFX9201SGAUMA1)**
-
 **Rationale:** We chose this dual-motor driver because of its cost-effectiveness and ease of use. Utilizing a dual half-H-bridge motor driver, this component lets us drive two motors with ease while not taking up a lot of PCB space. 
 
 ### Temperature Sensor
 Table 7: Temperature Sensor Selected
 
-
 | **Solution** | **Pros** | **Cons** |
 | ------------ | -------- | -------- |
 | TC74A0-3.3VCTTR | -3.3 Operating Voltage<br/>-Digital Signals<br/>-Cheap ($1.15)<br/>-Easy to use | -Tiny (1.9 x 1.2 mm) |
 
-**Choice: Option 1 (TC74A0-3.3VCTTR)**
 
 **Rationale:**  Option one is the most affordable, which works the best with the limited budget that the team is working in. Additionally, this component is the same one that the team will have worked with in class.
 
 ### Humidity Sensor
 Table 8: Humidity Sensor Selected
 
-
 | **Solution** | **Pros** | **Cons** |
 | ------------ | -------- | -------- |
 | HTU31DI.C31DRH/T | -I2C Compatible<br/>-Humidity operating range from 0 to 100%<br/>-Low input voltage required (5.5Vmax) | -Expensive ($3.73)<br/>-No exterior legs for easy soldering |
-
-**Choice: Option 3 (HTU31DI.C31DRH/T)**
 
 **Rationale:**  Option three is the cheapest and has the same functionality as the rest of the sensors.
 
@@ -251,7 +237,6 @@ For more details, please see [Appendix F: Component Selection](ComponentSelectio
 
 ### Components
 Table 9: Power Budget of the Components.
-
 
 | **Component Name** | **Part Number** | **Supply** | **#** | **Absolute** | **Total** | **Units** |
 | ------------------ | --------------- | ---------- |-------| ------------ | --------- | --------- |
