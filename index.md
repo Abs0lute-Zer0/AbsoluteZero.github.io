@@ -261,7 +261,7 @@ Table 9: Power Budget of the Components.
 |  | ­ |  |  | **Safety Margin** | **25%** |  |
 |  | ­ |  |  | **Total Current Required** | **870.58** |  **mA**|
 |  | ­ |  |  |  |  |  |
-| 18650 Batteries | USE-18650 | 3.7V | 4 | 2200 | **2200** |  **mA**|
+| 18650 Batteries | USE-18650 | 3.7V | 2 | 2200 | **2200** |  **mA**|
 |  |  |  |  | **Total Remaining Current** | **1329.42** |  **mA**|
 
 ### Current Calculations
@@ -270,8 +270,8 @@ Table 10: Current Calculations.
 
 | **Power Source** | **Component Name** |**Part Number** | **Supply** | **Output** | **Absolute** | **Total** | **Units** |
 | ---------------- | ------------------ | -------------- |------------| ---------- | ------------ | --------- | --------- |
-| Power Source Selection | Four 18650 Batteries | USE-18650 | +14.8V | +14.8V | 2200 | 2200 | mA |
-|  Voltage Regulator | 3.3V Regulator | LM2575D2T | +14.8V | 1 | 870.58 | 870.58 | mA |
+| Power Source Selection | Four 18650 Batteries | USE-18650 | +7.4V | +7.4V | 2200 | 2200 | mA |
+|  Voltage Regulator | 3.3V Regulator | LM2575D2T | +7.4V | 1 | 870.58 | 870.58 | mA |
 |  |  |  |  |   | **Total Remaining Current** | **1329.42** |  **mA**|
 
 ### Estimated Battery Life
@@ -280,11 +280,11 @@ Table 11: Estimated Battery Life.
 
 | **Component Name** |**Part Number** | **Supply** | **Capacity** | **Required** | **Units** |
 | ------------------ | -------------- | ---------- | ------------ | ------------ | --------- |
-| 18650 Batteries | USE-18650 | +14.8V | 2200 | 870.58 | mA |
+| 18650 Batteries | USE-18650 | +7.4V | 2200 | 870.58 | mA |
 |  |  |   | **Battery Life** | **2.53** |  **hr**|
 
 ### Notes
-Each 18650 battery has a 3.7V output and 2.2 Ah. We will use four 18650 batteries in series to achieve a 14.8V output and maintain a 2.2Ah capacity. 
+Each 18650 battery has a 3.7V output and 2.2 Ah. We will use two 18650 batteries in series to achieve a 7.4V output and maintain a 2.2Ah capacity. 
 
 ## Microcontroller Selection
 Table 12: Requirements for the project.
