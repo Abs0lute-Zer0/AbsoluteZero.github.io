@@ -200,7 +200,7 @@ Table 5: DC Motor Selected
 
 | **Solution** | **Pros** | **Cons** |
 | ------------ | -------- | -------- |
-| ROB-12429 Small Gearmotor | -Light (17.69 g)<br/>-Includes a gearbox (reduction ratio: 50)<br/>-Low Cost ($13.95)<br/>-Small (26 x 12 x 10mm)<br/>-Easy to attach to shaft (dent in the shaft) | -Small shaft length<br/>-Small mounting holes<br/>-Import Tariff |
+| ROB-11696 Gear Motor | -Light (25.85 g)<br/>-Includes a gearbox (reduction ratio: 50)<br/>-Low Cost ($2.10)<br/>-Low Normal Operating Voltage (1-3V)<br/>-Easy to attach to shaft (dent in the shaft) | -Small shaft length<br/>-Small mounting holes<br/>-Import Tariff |
 
 ![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156540341/d8be4bbb-f09e-43cf-8586-0b630b4e385b)
 
