@@ -211,7 +211,7 @@ Table 6: Motor Driver Selected
 
 | **Solution** | **Pros** | **Cons** |
 | ------------ | -------- | -------- |
-| IFX9201SGAUMA1 | -Cheap ($4.00)<br/>-High voltages (40 V)<br/>-Dual Motor Driver (2 half h-bridges)<br/>-Small (7.8 mm x 10mm)<br/>-Easy to use | -Lots of extra pins (5/12 are used) |
+| IFX9201SGAUMA1 | -High voltages (40 V)<br/>-Dual Motor Driver (2 half h-bridges)<br/>-Small (7.8 mm x 10mm)<br/>-Easy to use | -Lots of extra pins (5/12 are used) |
 
 ![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156540341/4e4dfa77-b832-4165-8e59-1660e1290d8b)
 
