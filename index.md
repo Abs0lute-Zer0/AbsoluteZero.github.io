@@ -167,7 +167,7 @@ Table 2: Power Source Selected
 
 | **Solution** | **Pros** | **Cons** |
 | ------------ | -------- | -------- |
-| 18650 Battery | -High Ah (2.2 Ah)<br/>-Popular<br/>-Rechargeable-Cheap ($2.40) | -Large<br/>-Requires Charger |
+| 18650 Battery | -High Ah (2.2 Ah)<br/>-Popular<br/>-Rechargeable<br/>-Cheap ($2.40) | -Large<br/>-Requires Charger |
 
 ![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156540341/3ea3bab3-692d-44f9-86a0-9d2346b991f7)
 
