@@ -204,7 +204,7 @@ Table 5: DC Motor Selected
 
 ![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156540341/d8be4bbb-f09e-43cf-8586-0b630b4e385b)
 
-**Rationale:** We decided to go with the ROB-12429 DC Motor because it had a healthy balance between its size, weight, cost, and adaptability. It wasn’t too pricey for a quality DC motor, while still being small and lightweight. Its shaft design makes it easy to attach 3D-printed wheels and other 3D-printed components.
+**Rationale:** We decided to go with the ROB-11696 Gear Motor because it had a healthy balance between its size, weight, cost, and adaptability. It was very cheap for a  DC motor, while still being small and lightweight. The motor won't have to handle heavy loads. 
 
 ### Motor Driver
 Table 6: Motor Driver Selected
@@ -288,7 +288,6 @@ Each 18650 battery has a 3.7V output and 2.2 Ah. We will use four 18650 batterie
 
 ## Microcontroller Selection
 Table 12: Requirements for the project.
-
 
 | Design Considerations | PIC18F27Q10 |
 | --------------------- | ----------- |
