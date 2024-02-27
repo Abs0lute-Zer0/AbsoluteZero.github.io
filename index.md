@@ -323,11 +323,13 @@ Table 13: Microcontroller Considerations.
 For more details, please see [Appendix G: Microcontroller Selection](MicrocontrollerSelection.md)
 
 ## Hardware Proposal
-![HARDWARE PROPOSAL](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/135275139/9449700c-8677-4f14-a756-101c4b9b46aa)
+![Team_Schematic_V2](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156858888/b808d0aa-403a-4b6d-8808-dff269cd83dd)
 
 Figure 6: Hardware Proposal
 
 ### [Team Bill Of Materials](https://docs.google.com/spreadsheets/d/1tEgSocMg7p1WsBFgXyOm4MPM_7w9kUdD/edit?usp=sharing&ouid=118237344388299811111&rtpof=true&sd=true) 
+
+For the hardware of this project, the team decided to break up the system inot four fifferent subsystems/ The subsystems were centered around the micro controllers, motors, tmeperature sensor, and humidity sensors. Those subsystems were designed by individual team members then combined into one team system schematic.
 
 For more details, please see [Appendix H: Hardware Proposal](MicrocontrollerSelection.md)
 
