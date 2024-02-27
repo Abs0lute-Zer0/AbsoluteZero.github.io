@@ -331,7 +331,7 @@ Figure 6: Hardware Proposal
 
 For the hardware of this project, the team decided to break up the system inot four fifferent subsystems/ The subsystems were centered around the micro controllers, motors, tmeperature sensor, and humidity sensors. Those subsystems were designed by individual team members then combined into one team system schematic.
 
-For more details, please see [Appendix H: Hardware Proposal](MicrocontrollerSelection.md)
+For more details, please see [Appendix H: Hardware Proposal](HardwareProposal.md)
 
 ## Software Proposal
 
