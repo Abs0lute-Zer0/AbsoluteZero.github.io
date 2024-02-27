@@ -323,7 +323,7 @@ Table 13: Microcontroller Considerations.
 For more details, please see [Appendix G: Microcontroller Selection](MicrocontrollerSelection.md)
 
 ## Hardware Proposal
-![Team_Schematic_V2](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156858888/b808d0aa-403a-4b6d-8808-dff269cd83dd)
+![TEAM_PCB_SCHEMATIC](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156858888/61388d1a-7ffb-43f1-98ad-46ea1b94a6af)
 
 Figure 6: Hardware Proposal
 
