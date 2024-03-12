@@ -38,7 +38,13 @@ write something here idk
 
 #### [Block Diagram and Verification Table](BlockDiagram.md) 
 
-#### [Team Organization Charter](TeamOrganizationCharter.md) 
+#### [Component Selection](ComponentSelection.md)
+
+#### [Microcontroller Selection](MicrocontrollerSelection.md)
+
+#### [Hardware Proposal](HardwareProposal.md)
+
+#### [SoftwareProposal](SoftwareProposal.md)
 
 ## Team Organization
 
