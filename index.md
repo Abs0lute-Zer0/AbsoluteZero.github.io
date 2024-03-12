@@ -28,8 +28,17 @@ write something here idk
 
 ## Table of Contents
 
-#### [Team Organization Charter](TeamOrganizationCharter.md): 
+#### [Team Organization Charter](TeamOrganizationCharter.md) 
 
+#### [User Needs, Benchmarking, and Requirements](UserNeedsBenchmarking&Requirements.md) 
+
+#### [Design Ideation](DesignIdeation.md) 
+
+#### [Appendix D: Presentation 1] 
+
+#### [Block Diagram and Verification Table](BlockDiagram.md) 
+
+#### [Team Organization Charter](TeamOrganizationCharter.md) 
 
 ## Team Organization
 
