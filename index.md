@@ -21,11 +21,6 @@ Spring 2024
 * Alex Gutierrez
 * Briana Wells
 
-  
-## Introduction
-
-write something here idk
-
 ## Table of Contents
 
 #### [Team Organization Charter](TeamOrganizationCharter.md) 
@@ -45,6 +40,10 @@ write something here idk
 #### [Hardware Proposal](HardwareProposal.md)
 
 #### [SoftwareProposal](SoftwareProposal.md)
+
+## Introduction
+
+write something here idk
 
 ## Team Organization
 
