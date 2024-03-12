@@ -20,11 +20,15 @@ Spring 2024
 * Jillian Brooke
 * Alex Gutierrez
 * Briana Wells
-* 
+
+  
 ## Introduction
+
+write something here idk
 
 ## Table of Contents
 
+#### [Team Organization Charter](TeamOrganizationCharter.md): 
 
 
 ## Team Organization
