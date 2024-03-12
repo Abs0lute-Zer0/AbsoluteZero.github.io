@@ -153,6 +153,8 @@ For a more detailed explanation, please see [Appendix C: Design Ideation](Design
 **Introduction:**
 This section showcases the first milestone of the project which depicts the initial design concept phase. Demonstrated with a video, the team showcases the user and product requirements along with possible design solutions. 
 
+[![Watch the video](https://youtu.be/PEDgt7GWlsU)]
+
 The full recording of the presentation can be accessed [here](https://youtu.be/PEDgt7GWlsU) or via the preview seen in [Appendix D: Presentation 1](Presentation1.md)
 
 ## Selected Design
