@@ -20,6 +20,12 @@ Spring 2024
 * Jillian Brooke
 * Alex Gutierrez
 * Briana Wells
+* 
+## Introduction
+
+## Table of Contents
+
+
 
 ## Team Organization
 
