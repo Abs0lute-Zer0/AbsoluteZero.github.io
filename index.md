@@ -43,7 +43,7 @@ Spring 2024
 
 ## Introduction
 
-This project aims to create a functioning mobile weather station that users can use to receive relevant and accurate environmental readings. The core meteorological readings that this device aims to collect are humidity and temperature. This device must additionally fulfill all class requirements for this project to be considered a success. This means including a custom-chosen PIC, communicating with the user over wifi, and having a motor controlled using SPI/I2C. The team worked to derive a method of formulation/brainstorming to encourage creative thinking to ensure that the final product is a good representation of the values and requirements of the team and the class. The team additionally, inclooded the rover capabilities as an added challenge to the project. The team hopes that this project will better their understanding of robotics, circuit work, and coding in general.
+This project aims to create a functioning mobile weather station that users can use to receive relevant and accurate environmental readings. The core meteorological readings that this device aims to collect are humidity and temperature. This device must additionally fulfill all class requirements for this project to be considered a success. This means including a custom-chosen PIC, communicating with the user over wifi, and having a motor controlled using SPI/I2C. The team worked to derive a method of formulation/brainstorming to encourage creative thinking to ensure that the final product is a good representation of the values and requirements of the team and the class. The team additionally, included the rover capabilities as an added challenge to the project. The team hopes that this project will better their understanding of robotics, circuit work, and coding in general.
 
 ## Team Organization
 
@@ -110,7 +110,7 @@ To find the required needs for the device and facilitate organizing the ideas in
 With every user need falling under a particular category, the team understood whether each user need was quantifiable or qualitative. After this analysis, it was easy to determine how the user needs would fall into a certain specification and what was needed for the final product. As an example, safety specifications were the first to be identified based on the assumed user needs which was used as a basis to convert other user needs to other specifications. 
 
 **Assessment Based on Product Requirements/Aspects:**
-The final product's design will be thoroughly assessed on all product aspects as they are all crucial. Safety and functionality will of course be given the most importance of assessment as that signifies a successful or failed product. Of course, there will be many places for improvement after the initial final product so therefore the customizability and manufacturability won't be assessed as heavily but should still be kept in mind when designing the final product. Finally, user experience is. After the safety, functionality, user experience, customizability, and manufacturability product aspects are assessed, the product will be deemed to be either successful or incomplete. Following the final assessment, expandability will be looked at to consider if the product can considered for further improvements. These assessments and checks will determine if the final design meets the product requirements. 
+The final product's design will be thoroughly assessed on all product aspects as they are all crucial. Safety and functionality will of course be given the most importance of assessment as that signifies a successful or failed product. Of course, there will be many places for improvement after the initial final product so therefore the customizability and manufacturability won't be assessed as heavily but should still be kept in mind when designing the final product. Finally, user experience is. After the safety, functionality, user experience, customizability, and manufacturability of product aspects are assessed, the product will be deemed to be either successful or incomplete. Following the final assessment, expandability will be looked at to consider if the product can considered for further improvements. These assessments and checks will determine if the final design meets the product requirements. 
 
 
 ### Compiled List of Ideas
@@ -352,22 +352,63 @@ For more details, please see [Appendix G: Microcontroller Selection](Microcontro
 ## Hardware Proposal
 ![Team_Schematic_V2](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156858888/e2dcfff7-42f2-44ea-b353-a81dcf872ced)
 
-Figure 6: Hardware Proposal
+Figure 6: Hardware Implementation
 
+_NEED TO INCLUDE UPDATED SCHEMATIC_
+_Discuss how the functionality of this schematic satisfies user needs and product requirements through an in-depth discussion of function._
+_Discuss your team's design and decision making process related to this section_
+
+_MOVE BILL OF MATERIALS TO APPENDIX_
 ### [Team Bill Of Materials](https://docs.google.com/spreadsheets/d/1tEgSocMg7p1WsBFgXyOm4MPM_7w9kUdD/edit?usp=sharing&ouid=118237344388299811111&rtpof=true&sd=true) 
 
-For the hardware of this project, the team decided to break up the system inot four fifferent subsystems/ The subsystems were centered around the micro controllers, motors, tmeperature sensor, and humidity sensors. Those subsystems were designed by individual team members then combined into one team system schematic.
+For the hardware of this project, the team decided to break up the system into four different subsystems/ The subsystems were centered around the microcontrollers, motors, temperature sensors, and humidity sensors. Those subsystems were designed by individual team members and then combined into one team system schematic.
+
+_Include front and back screenshots of the team's final PCB design_
+
+_Include front and back photos of the team's final PCB design_
+
+_If you were to create a "Version 2.0" of your hardware design, discuss what could be improved in the hardware design and why it should be improved. Use the schematic above to support the discussion. (½ page minimum)_
+
+_CHANGE THE LINK TO APPENDIX/NEW APPENDIX_
 
 For more details, please see [Appendix H: Hardware Proposal](HardwareProposal.md)
 
-## Software Proposal
+## Software Implementation
 
 ![Team304_SoftwareProposal](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/135275139/08354b56-f796-4863-a2f2-b58312be190e)
 Figure 7: Software Proposal
 
 For the software of this project, the team decided to set up the code in a way that after the system is initialized and interrupts are enabled, the program will check on the temperature of the area, using the respective sensor via I2C communication, and update the user on the current temperature. After that, if the temperature is above a certain margin, the microcontroller will send a signal to the motor via SPI for it to raise a flag to alert the user about the higher temperatures, this flag will stay up until the temperature has decreased to below the alert margin. Lastly, the humidity sensor will check the humidity of the area and send the information to the user via I2C.
 
+_UPDATE DIAGRAM IF NEEDED, ENSURE DIAGRAM MATCHES CODE (IT SHOULD)_
+
+_Discuss how the functionality of this software diagram satisfies user needs and product requirements though an in depth discussion of function_
+
+_Discuss your team's design and decision making process related to this section_
+
+_Numbered list of the top 5 biggest changes to your software design since the software proposal. Include several sentences for each change describing the issue and how you resolved it. Use the UML diagrams above to support the discussion._
+
+_If you were to create a "Version 2.0" of your software design, discuss what could be improved in the software design and why it should be improved. Use the UML diagrams above to support the discussion. Consider using a graphical representation of the flow that your updated software would take. What functions would you create? How would you divide up your code? How would you improve its debuggability? What peripherals or system features would you like to use or set up to make your system more reliable, stable, functional, or robust? How would you simplify, improve, or update your protocol design to support this in software? (½ page minimum)_
+
+_Final MQTT topic table and all C/C++ code that your team has written or modified, and screenshots of your MCC configuration. (in appendix)_
+
+_CHANGE THE LINK TO APPENDIX/NEW APPENDIX_
+
 For more details, please see [Appendix I: SoftwareProposal](SoftwareProposal.md)
+
+
+## System Verification
+
+_Include the team's final completed system verification matrix_
+
+
+## Lessons Learned
+
+_What are the top 10 most important things that your team learned from working on this project? You may use the feedback received from the design review and the content you discussed in status reports to address this section. (use full sentences, ½ page minimum)_
+
+## Recommendations for Future Students
+
+_Create a numbered list with the top five recommendations for future students of what they should learn or do to prepare themselves for taking this class. Each item must be at least one complete sentence long._
 
 ## [Appendix](Appendix.github.md)
 
