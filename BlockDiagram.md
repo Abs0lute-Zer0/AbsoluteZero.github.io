@@ -1,6 +1,6 @@
 ## Block Diagram
 
-![Block Diagram-314 drawio](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/135275139/d96d9163-7405-451e-9555-377c92c6c9dc)
+![BlockDiagram-314 drawio](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156858888/c589fed9-7303-4ea9-8a6d-2e35288f99ac)
 
 Figure 1: Block Diagram
 
