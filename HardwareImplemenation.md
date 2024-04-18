@@ -9,14 +9,13 @@
 ## Final Schematic
 ![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156540341/90f9ca63-4097-418a-81f4-449eb497d122)
 
-**Functionality**: The schematic features a temperature and humidity sensor to output weather station data to the MQTT server. It is setup to have a motor-controlled response utilizing a motor driver. 
+**Functionality**: The schematic features a temperature and humidity sensor to output weather station data to the MQTT server. It is set up to have a motor-controlled response utilizing a motor driver. Furthermore, the schematic contains four LEDs and a piezo buzzer. The motor will spin a flag and the buzzer will buzz when the temperature or humidity reads too high.
 
-Design and Decision-Making Process:
+**Design and Decision-Making Process**: The team wanted to go beyond the standard project requirements. To further warn the user of extreme temperatures, a buzzer was implemented to provide an audio warning system. The motor is utilized to spin the flag providing a visual warning system. The combination of visual + audio warning systems will quickly alert the user to unsafe weather conditions. The motor will be provided with an external 9V power supply to sufficiently power and run the motor holding the flag. The LEDs provided in the circuit will turn on to indicate to the user that the system is powered up and fully functional. 
 
 | **PCB Top View** | **PCB Bottom View** |
 | ------------ | -------- |
-|![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156540341/5dbf0915-0d06-4830-b0f5-ce3e7b6feaa4) |![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156540341/9350fd72-87bc-490a-a089-1febbcbc72de)
-|
+|![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156540341/5dbf0915-0d06-4830-b0f5-ce3e7b6feaa4) |![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156540341/9350fd72-87bc-490a-a089-1febbcbc72de)|
 
 | **PCB Top View** | **PCB Bottom View** |
 | ------------ | -------- |
