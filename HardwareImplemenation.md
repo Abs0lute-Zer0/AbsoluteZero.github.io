@@ -9,7 +9,7 @@
 ## Final Schematic
 ![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156540341/90f9ca63-4097-418a-81f4-449eb497d122)
 
-Functionality: 
+**Functionality**: The schematic features a temperature and humidity sensor to output weather station data to the MQTT server. 
 
 Design and Decision-Making Process:
 
