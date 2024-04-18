@@ -352,12 +352,11 @@ Table 13: Microcontroller Considerations.
 For more details, please see [Appendix G: Microcontroller Selection](MicrocontrollerSelection.md)
 
 ## Hardware Implementation
-![Team_Schematic_V2](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156858888/e2dcfff7-42f2-44ea-b353-a81dcf872ced)
 
-Figure 6: Hardware Implementation
 
 ## Final Schematic
 ![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156540341/90f9ca63-4097-418a-81f4-449eb497d122)
+Figure 6: Hardware Implementation
 
 **Functionality**: The schematic features a temperature and humidity sensor to output weather station data to the MQTT server. It is set up to have a motor-controlled response utilizing a motor driver. Furthermore, the schematic contains four LEDs and a piezo buzzer. The motor will spin a flag and the buzzer will buzz when the temperature or humidity reads too high.
 
