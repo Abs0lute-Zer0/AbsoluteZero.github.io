@@ -356,7 +356,7 @@ Figure 6: Hardware Implementation
 
 _NEED TO INCLUDE UPDATED SCHEMATIC_
 _Discuss how the functionality of this schematic satisfies user needs and product requirements through an in-depth discussion of function._
-_Discuss your team's design and decision making process related to this section_
+_Discuss your team's design and decision-making process related to this section_
 
 _MOVE BILL OF MATERIALS TO APPENDIX_
 ### [Team Bill Of Materials](https://docs.google.com/spreadsheets/d/1tEgSocMg7p1WsBFgXyOm4MPM_7w9kUdD/edit?usp=sharing&ouid=118237344388299811111&rtpof=true&sd=true) 
@@ -373,18 +373,18 @@ _CHANGE THE LINK TO APPENDIX/NEW APPENDIX_
 
 For more details, please see [Appendix H: Hardware Proposal](HardwareProposal.md)
 
-## Software Implementation
+## Software Implementation (Jillian)
 
-![Team304_SoftwareProposal](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/135275139/08354b56-f796-4863-a2f2-b58312be190e)
+![Team304_SoftwareProposal_ drawio](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/a343fc5c-d782-4aae-ade5-c1c747d78305)
 Figure 7: Software Proposal
 
-For the software of this project, the team decided to set up the code in a way that after the system is initialized and interrupts are enabled, the program will check on the temperature of the area, using the respective sensor via I2C communication, and update the user on the current temperature. After that, if the temperature is above a certain margin, the microcontroller will send a signal to the motor via SPI for it to raise a flag to alert the user about the higher temperatures, this flag will stay up until the temperature has decreased to below the alert margin. Lastly, the humidity sensor will check the humidity of the area and send the information to the user via I2C.
+For the software of this project, the team decided to set up the code in a way that after the system is initialized and interrupts are enabled, the program will check on the temperature of the area, using the respective sensor via I2C communication, and update the user on the current temperature. After that, if the temperature is above a certain margin, the microcontroller will send a signal to the motor via SPI for it to raise a flag to alert the user about the higher temperatures, this flag will stay up until the temperature has decreased to below the alert margin. Lastly, the humidity sensor will check the humidity of the area and send the information to the user via I2C. Additionally, there is a timer that increments by 1 second, every 10 seconds an interrupt (Blink) is sent. This interrupt turns off the eye LEDs for 1 second, making the appearance of a blink.
 
 _UPDATE DIAGRAM IF NEEDED, ENSURE DIAGRAM MATCHES CODE (IT SHOULD)_
 
-_Discuss how the functionality of this software diagram satisfies user needs and product requirements though an in depth discussion of function_
+_Discuss how the functionality of this software diagram satisfies user needs and product requirements through an in-depth discussion of function_
 
-_Discuss your team's design and decision making process related to this section_
+_Discuss your team's design and decision-making process related to this section_
 
 _Numbered list of the top 5 biggest changes to your software design since the software proposal. Include several sentences for each change describing the issue and how you resolved it. Use the UML diagrams above to support the discussion._
 
