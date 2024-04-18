@@ -16,8 +16,9 @@ The Microcontroller and ESP32 Subsystems work to meet the requirement that the p
 
 ## Verification Table
 
-Table 1: Verification Table
-![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/2a1b9f25-7edb-46dd-b786-642442e6027e)
+Table 1: Final Verification Table
+![Screenshot 2024-04-18 130119](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156858888/96b8da88-f7dc-4e99-a0b5-a0a39222bc92)
+
 
 The above table served as a guide for further assignments, particularly the hardware implementation.
 
