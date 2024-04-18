@@ -10,6 +10,7 @@
 ![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156540341/90f9ca63-4097-418a-81f4-449eb497d122)
 
 Functionality: 
+Design and Decision Making Process:
 
 | **PCB Top View** | **PCB Bottom View** |
 | ------------ | -------- |
