@@ -372,7 +372,7 @@ Figure 6: Hardware Implementation
 
 **Version 2.0 Changes**: The main changes for version 2.0 occur on the PCB design. The components are currently spaced out, leaving a lot of empty space on the PCB. A smaller PCB design will allow a smaller construction of the final product making everything more compact. Some other minor changes include removing the wire mess on the final schematic. Replacing each wire with a symbol annotation will allow any viewer to easily identify the components and how everything is connected to the microcontroller. Another small change is to replace J15 with a piezo buzzer image so that the user that those two pins are connected to a piezo buzzer.
 
-For more details, please see [Appendix H: Hardware Proposal](HardwareProposal.md)
+For more details, please see [Appendix I: Hardware Proposal](HardwareImplemenetation.md)
 
 ## Software Implementation (Jillian)
 
