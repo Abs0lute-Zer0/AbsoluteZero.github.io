@@ -7,11 +7,10 @@
 
 ## MQTT Topic Table
 
-[Team304_PinModule.pdf](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/files/15032137/Team304_PinModule.pdf)
+![MCC Configuration](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/2d451c86-d7a6-4016-8aeb-bd14f494ebf4)
 
 ## MCC Configuration
-
-[Team304_Project Resources.pdf](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/files/15032139/Team304_Project.Resources.pdf)
+![MCC Configuration](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/50b9fe30-f7a0-4e4c-ab32-70489078578f)
 
 ## C Code
 
