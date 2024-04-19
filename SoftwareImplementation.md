@@ -36,5 +36,3 @@ For more information about the specifics of the code/set up click here: [Appendi
 
 To See the original design, the Hardware Proposal: [Appendix I: Software Proposal](SoftwareProposal.md)
 
-_Final MQTT topic table and all C/C++ code that your team has written or modified, and screenshots of your MCC configuration. (in appendix)_
-
