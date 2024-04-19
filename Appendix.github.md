@@ -16,3 +16,8 @@
 
 ## [Appendix H: Software Proposal](SoftwareProposal.md)
 
+## [Appendix I: Hardware Implementation](HardwareImplementation.md)
+
+## [Appendix J: Software Implementation](SoftwareImplementation.md)
+
+## [Appendix K: FinalCode&Settup](FinalCode&Settup.md)
