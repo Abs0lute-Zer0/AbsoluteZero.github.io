@@ -31,15 +31,17 @@ Spring 2024
 
 #### [Presentation 1](Presentation1.md) 
 
+#### [Final Selected Design](FinalSelectedDesign.md)
+
 #### [Block Diagram and Verification Table](BlockDiagram.md) 
 
 #### [Component Selection](ComponentSelection.md)
 
 #### [Microcontroller Selection](MicrocontrollerSelection.md)
 
-#### [Hardware Proposal](HardwareProposal.md)
+#### [Hardware Implementation](HardwareImplementation.md)
 
-#### [SoftwareProposal](SoftwareProposal.md)
+#### [Software Implementation](SoftwareImplementation.md)
 
 ## Introduction
 
@@ -374,7 +376,7 @@ Figure 6: Hardware Implementation
 
 For more details, please see [Appendix I: Hardware Proposal](HardwareImplemenetation.md)
 
-## Software Implementation (Jillian)
+## Software Implementation
 
 ![Team304_SoftwareProposal_ drawio](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/a343fc5c-d782-4aae-ade5-c1c747d78305)
 
