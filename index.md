@@ -43,6 +43,8 @@ Spring 2024
 
 #### [Software Implementation](SoftwareImplementation.md)
 
+#### [Lessons Learned](LessonsLearned.md)
+
 ## Introduction
 
 This project aims to create a functioning mobile weather station that users can use to receive relevant and accurate environmental readings. The core meteorological readings that this device aims to collect are humidity and temperature. This device must additionally fulfill all class requirements for this project to be considered a success. This means including a custom-chosen PIC, communicating with the user over wifi, and having a motor controlled using SPI/I2C. The team worked to derive a method of formulation/brainstorming to encourage creative thinking to ensure that the final product is a good representation of the values and requirements of the team and the class. The team additionally, included the rover capabilities as an added challenge to the project. The team hopes that this project will better their understanding of robotics, circuit work, and coding in general.
