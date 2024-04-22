@@ -410,9 +410,6 @@ One of the most important components of this project was the software which was 
 
 For more information about the specifics of the code/set up click here: [Appendix K: FinalCode&Settup](FinalCode&Settup.md)
 
-To See the original design, the Hardware Proposal: [Appendix I: Software Proposal](SoftwareProposal.md)
-
-
 ## System Verification
 
 _Include the team's final completed system verification matrix_
