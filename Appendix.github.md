@@ -12,12 +12,8 @@
 
 ## [Appendix F: Microcontroller Selection](MicrocontrollerSelection.md)
 
-## [Appendix G: Hardware Proposal](HardwareProposal.md)
+## [Appendix G: Hardware Implementation](HardwareImplementation.md)
 
-## [Appendix H: Software Proposal](SoftwareProposal.md)
+## [Appendix H: Software Implementation](SoftwareImplementation.md)
 
-## [Appendix I: Hardware Implementation](HardwareImplementation.md)
-
-## [Appendix J: Software Implementation](SoftwareImplementation.md)
-
-## [Appendix K: FinalCode&Settup](FinalCode&Settup.md)
+## [Appendix I: FinalCode&Settup](FinalCode&Settup.md)
