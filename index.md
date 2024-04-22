@@ -175,7 +175,8 @@ This design was chosen as the team was interested in a mobile weather station. T
 
 ## Block Diagram
 
-![Block Diagram-314 drawio (6)](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156485138/8d83a4cc-026c-4c6f-838a-c061de904e50)
+![Block Diagram-314 drawio (6)](![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156540341/7e1faee4-f3d6-4e31-8643-4f5776a93b67)
+)
 
 Figure 5: Block Diagram
 
