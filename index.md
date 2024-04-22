@@ -413,7 +413,9 @@ For more information about the specifics of the code/set up click here: [Appendi
 
 ## System Verification
 
-_Include the team's final completed system verification matrix_
+![Screenshot 2024-04-18 130119](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156858888/96b8da88-f7dc-4e99-a0b5-a0a39222bc92)
+
+Figure 8: Final Verification Table
 
 
 ## Lessons Learned
