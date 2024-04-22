@@ -431,7 +431,11 @@ Lastly, creating a block diagram for an embedded system is indispensable for vis
 
 ## Recommendations for Future Students
 
-_Create a numbered list with the top five recommendations for future students of what they should learn or do to prepare themselves for taking this class. Each item must be at least one complete sentence long._
+1. Students should familiarize themselves with the Cadence software and the general guidelines for PC design as it will be a key part of the class.
+2. Students should familiarize themselves with Python syntax and how to use Thonny or Visual Studio Code since it wiil be key for the later ESP32 assignments in the class.
+3. Students should work to stay ahead on the assignments and project in the course to give themselves more time for when issues eventually come up and take time to be resolved.
+4. Students should work on their C programming skills as that is the main coding language used in the class. Specifically they should look at the format of C that MPLAB X IDE uses since that's the main programming application for the course.
+5. Students should learn how to make and edit directories and files on GitHub since that is the place where all of the information on your project will to posted as your final report.
 
 ## [Appendix](Appendix.github.md)
 
