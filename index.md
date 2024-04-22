@@ -360,7 +360,7 @@ For more details, please see [Appendix G: Microcontroller Selection](Microcontro
 
 
 ### Final Schematic
-![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156540341/90f9ca63-4097-418a-81f4-449eb497d122)
+![image](https://github.com/Abs0lute-Zer0/AbsoluteZero.github.io/assets/156540341/7f448416-66f7-40d8-9818-df94857a0c70)
 Figure 6: Hardware Implementation
 
 **Functionality**: The schematic features a temperature and humidity sensor to output weather station data to the MQTT server. It is set up to have a motor-controlled response utilizing a motor driver. Furthermore, the schematic contains four LEDs and a piezo buzzer. The motor will spin a flag and the buzzer will buzz when the temperature or humidity reads too high.
