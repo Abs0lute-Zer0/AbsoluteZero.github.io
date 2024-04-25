@@ -16,7 +16,7 @@ Spring 2024
 ### Team Members:
 * Raj Kodithyala
 * Jillian Brooke
-* Alex Gutierrez
+* Alex Gutierrez 
 * Briana Wells
 
 ## Table of Contents
